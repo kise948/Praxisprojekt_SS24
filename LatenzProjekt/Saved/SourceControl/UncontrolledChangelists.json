@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/StarterContent/Props/MaterialSphere.uasset"
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/StarterContent/Props/MaterialSphere.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Input/B_InputModifier_XAxisPositiveOnly.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/StarterContent/Architecture/Wall_400x400.uasset"
 			]
 		}
 	]

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\leene\\desktop\\praxisprojekt_ss24\\latenzprojekt\\intermediate\\build\\win64\\x64\\unrealgame\\development\\latenzprojekt\\module.latenzprojekt.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\leene\\desktop\\praxisprojekt_ss24\\latenzprojekt\\intermediate\\build\\win64\\x64\\latenzprojekt\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\leene\\desktop\\praxisprojekt_ss24\\latenzprojekt\\intermediate\\build\\win64\\x64\\unrealgame\\development\\latenzprojekt\\definitions.latenzprojekt.h",
+            "c:\\users\\leene\\desktop\\praxisprojekt_ss24\\latenzprojekt\\intermediate\\source\\latenzprojekt.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
