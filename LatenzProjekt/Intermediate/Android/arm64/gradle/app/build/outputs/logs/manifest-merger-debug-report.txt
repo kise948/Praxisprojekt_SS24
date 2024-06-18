@@ -1,0 +1,778 @@
+-- Merging decision tree log ---
+manifest
+ADDED from Z:\app\src\main\AndroidManifest.xml:1:1-88:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-88:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-88:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-88:12
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-nearby:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\a9eaff1e6b5ecf3d6b2f9eacbb655bd8\transformed\jetified-play-services-nearby-18.1.0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-games:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\9f7a1604835189e8b54a49a96ca562c9\transformed\jetified-play-services-games-18.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\9937cabe4b85952427cb2ed2f6611786\transformed\jetified-play-services-plus-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:downloader_library] Z:\downloader_library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_library] Z:\permission_library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\eac3973f25233c102521c06b2f987e0f\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\b30514a67f00e2ec8f326dd4052357b6\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\ca5acccb01c23b0ce838e29d6d80f72f\transformed\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\2d9def97134e265efc1ff5bf03065716\transformed\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\7fae42d38903fc3cc638a896827515eb\transformed\jetified-play-services-drive-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-audience:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\c36258807b19219a7ebb8d3d0b3f6b8b\transformed\jetified-play-services-audience-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\13e38bc0a68c75c157006028828b6577\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\2cf03844490b7518ec0cc15b7be6ecd0\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\leene\.gradle\caches\transforms-3\012bcd816ec95d1808dfe2e9ce2ff0ec\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\5675b3009f8a286376d2ee267b9a035e\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\3fa6512a9d4dee4adc600ab35404b8df\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\leene\.gradle\caches\transforms-3\0b8921ecb709d584d59cb98b15117b47\transformed\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\leene\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\leene\.gradle\caches\transforms-3\adaab2e47a8e09712ca42623bfb1f04a\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\0804243bad5248514c5a434f41073d07\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\a35993eb5176732de8b2517e5bc10719\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\7ed5c773499d96899d12683379018bd7\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\eb59ad3ff2cc3f8ea455ecf10b9a5b47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\b31efb9b62a939b56fecae300029b614\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\a7154ee6fec4f38ca05d36393363001c\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\e1ac4ba11c7505a756ac68281c03c2ce\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\leene\.gradle\caches\transforms-3\c36b0462f8317d38911235ec040e17dc\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-88:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-88:12
+INJECTED from Z:\app\src\main\AndroidManifest.xml:1:1-88:12
+	package
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:1-88:12
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:180-205
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:70-116
+	xmlns:android
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:156-179
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:117-155
+application
+ADDED from Z:\app\src\main\AndroidManifest.xml:3:3-71:17
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-nearby:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\a9eaff1e6b5ecf3d6b2f9eacbb655bd8\transformed\jetified-play-services-nearby-18.1.0\AndroidManifest.xml:9:5-14:19
+MERGED from [com.google.android.gms:play-services-nearby:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\a9eaff1e6b5ecf3d6b2f9eacbb655bd8\transformed\jetified-play-services-nearby-18.1.0\AndroidManifest.xml:9:5-14:19
+MERGED from [com.google.android.gms:play-services-games:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\9f7a1604835189e8b54a49a96ca562c9\transformed\jetified-play-services-games-18.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\9f7a1604835189e8b54a49a96ca562c9\transformed\jetified-play-services-games-18.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\9937cabe4b85952427cb2ed2f6611786\transformed\jetified-play-services-plus-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\9937cabe4b85952427cb2ed2f6611786\transformed\jetified-play-services-plus-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:18:5-28:19
+MERGED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:18:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\b30514a67f00e2ec8f326dd4052357b6\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\b30514a67f00e2ec8f326dd4052357b6\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\7fae42d38903fc3cc638a896827515eb\transformed\jetified-play-services-drive-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\7fae42d38903fc3cc638a896827515eb\transformed\jetified-play-services-drive-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-audience:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\c36258807b19219a7ebb8d3d0b3f6b8b\transformed\jetified-play-services-audience-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-audience:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\c36258807b19219a7ebb8d3d0b3f6b8b\transformed\jetified-play-services-audience-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\13e38bc0a68c75c157006028828b6577\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\13e38bc0a68c75c157006028828b6577\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\2cf03844490b7518ec0cc15b7be6ecd0\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\2cf03844490b7518ec0cc15b7be6ecd0\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\leene\.gradle\caches\transforms-3\012bcd816ec95d1808dfe2e9ce2ff0ec\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\leene\.gradle\caches\transforms-3\012bcd816ec95d1808dfe2e9ce2ff0ec\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\leene\.gradle\caches\transforms-3\0b8921ecb709d584d59cb98b15117b47\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\leene\.gradle\caches\transforms-3\0b8921ecb709d584d59cb98b15117b47\transformed\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\leene\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\leene\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\0804243bad5248514c5a434f41073d07\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\0804243bad5248514c5a434f41073d07\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+	android:requestLegacyExternalStorage
+		ADDED from Z:\app\src\main\AndroidManifest.xml:3:199-242
+	android:extractNativeLibs
+		ADDED from Z:\app\src\main\AndroidManifest.xml:3:114-146
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\leene\.gradle\caches\transforms-3\0b8921ecb709d584d59cb98b15117b47\transformed\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from Z:\app\src\main\AndroidManifest.xml:3:16-48
+	android:hasCode
+		ADDED from Z:\app\src\main\AndroidManifest.xml:3:243-265
+	android:hardwareAccelerated
+		ADDED from Z:\app\src\main\AndroidManifest.xml:3:79-113
+	android:icon
+		ADDED from Z:\app\src\main\AndroidManifest.xml:3:49-78
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:3:147-198
+activity#com.epicgames.unreal.GameActivity
+ADDED from Z:\app\src\main\AndroidManifest.xml:4:5-12:16
+	android:screenOrientation
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:435-478
+	android:label
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:88-120
+	android:launchMode
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:403-434
+	android:exported
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:64-87
+	android:debuggable
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:479-504
+	android:resizeableActivity
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:368-402
+	android:configChanges
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:186-367
+	android:theme
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:121-185
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:15-63
+meta-data#android.app.lib_name
+ADDED from Z:\app\src\main\AndroidManifest.xml:5:7-79
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:5:54-76
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:5:18-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
+ADDED from Z:\app\src\main\AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from Z:\app\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from Z:\app\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:8:19-66
+category#com.oculus.intent.category.VR
+ADDED from Z:\app\src\main\AndroidManifest.xml:9:9-66
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:9:19-63
+meta-data#com.oculus.vr.focusaware
+ADDED from Z:\app\src\main\AndroidManifest.xml:11:7-81
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:11:58-78
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:11:18-57
+activity#com.epicgames.LatenzProjekt.DownloaderActivity
+ADDED from Z:\app\src\main\AndroidManifest.xml:13:5-52
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:15-49
+meta-data#com.epicgames.unreal.GameActivity.EngineVersion
+ADDED from Z:\app\src\main\AndroidManifest.xml:14:5-103
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:14:79-100
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:14:16-78
+meta-data#com.epicgames.unreal.GameActivity.EngineBranch
+ADDED from Z:\app\src\main\AndroidManifest.xml:15:5-114
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:15:78-111
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:15:16-77
+meta-data#com.epicgames.unreal.GameActivity.ProjectVersion
+ADDED from Z:\app\src\main\AndroidManifest.xml:16:5-106
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:16:80-103
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:16:16-79
+meta-data#com.epicgames.unreal.GameActivity.DepthBufferPreference
+ADDED from Z:\app\src\main\AndroidManifest.xml:17:5-107
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:17:87-104
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:17:16-86
+meta-data#com.epicgames.unreal.GameActivity.bPackageDataInsideApk
+ADDED from Z:\app\src\main\AndroidManifest.xml:18:5-110
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:18:87-107
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:18:16-86
+meta-data#com.epicgames.unreal.GameActivity.bVerifyOBBOnStartUp
+ADDED from Z:\app\src\main\AndroidManifest.xml:19:5-109
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:19:85-106
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:19:16-84
+meta-data#com.epicgames.unreal.GameActivity.bShouldHideUI
+ADDED from Z:\app\src\main\AndroidManifest.xml:20:5-102
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:20:79-99
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:20:16-78
+meta-data#com.epicgames.unreal.GameActivity.ProjectName
+ADDED from Z:\app\src\main\AndroidManifest.xml:21:5-109
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:21:77-106
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:21:16-76
+meta-data#com.epicgames.unreal.GameActivity.AppType
+ADDED from Z:\app\src\main\AndroidManifest.xml:22:5-92
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:22:73-89
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:22:16-72
+meta-data#com.epicgames.unreal.GameActivity.bHasOBBFiles
+ADDED from Z:\app\src\main\AndroidManifest.xml:23:5-101
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:23:78-98
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:23:16-77
+meta-data#com.epicgames.unreal.GameActivity.BuildConfiguration
+ADDED from Z:\app\src\main\AndroidManifest.xml:24:5-114
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:24:84-111
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:24:16-83
+meta-data#com.epicgames.unreal.GameActivity.CookedFlavors
+ADDED from Z:\app\src\main\AndroidManifest.xml:25:5-102
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:25:79-99
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:25:16-78
+meta-data#com.epicgames.unreal.GameActivity.bValidateTextureFormats
+ADDED from Z:\app\src\main\AndroidManifest.xml:26:5-112
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:26:89-109
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:26:16-88
+meta-data#com.epicgames.unreal.GameActivity.bUseExternalFilesDir
+ADDED from Z:\app\src\main\AndroidManifest.xml:27:5-109
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:27:86-106
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:27:16-85
+meta-data#com.epicgames.unreal.GameActivity.bPublicLogFiles
+ADDED from Z:\app\src\main\AndroidManifest.xml:28:5-105
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:28:81-102
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:28:16-80
+meta-data#com.epicgames.unreal.GameActivity.bUseDisplayCutout
+ADDED from Z:\app\src\main\AndroidManifest.xml:29:5-107
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:29:83-104
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:29:16-82
+meta-data#com.epicgames.unreal.GameActivity.bAllowIMU
+ADDED from Z:\app\src\main\AndroidManifest.xml:30:5-98
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:30:75-95
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:30:16-74
+meta-data#com.epicgames.unreal.GameActivity.bSupportsVulkan
+ADDED from Z:\app\src\main\AndroidManifest.xml:31:5-104
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:31:81-101
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:31:16-80
+meta-data#com.epicgames.unreal.GameActivity.PropagateAlpha
+ADDED from Z:\app\src\main\AndroidManifest.xml:32:5-100
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:32:80-97
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:32:16-79
+meta-data#com.epicgames.unreal.GameActivity.StartupPermissions
+ADDED from Z:\app\src\main\AndroidManifest.xml:33:5-144
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:33:84-141
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:33:16-83
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from Z:\app\src\main\AndroidManifest.xml:34:5-100
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:34:67-97
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:34:16-66
+meta-data#com.google.android.gms.version
+ADDED from Z:\app\src\main\AndroidManifest.xml:35:5-118
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\leene\.gradle\caches\transforms-3\012bcd816ec95d1808dfe2e9ce2ff0ec\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\leene\.gradle\caches\transforms-3\012bcd816ec95d1808dfe2e9ce2ff0ec\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:35:62-115
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:35:16-61
+activity#com.google.android.gms.ads.AdActivity
+ADDED from Z:\app\src\main\AndroidManifest.xml:36:5-180
+	android:configChanges
+		ADDED from Z:\app\src\main\AndroidManifest.xml:36:68-177
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:36:15-67
+meta-data#com.oculus.supportedDevices
+ADDED from Z:\app\src\main\AndroidManifest.xml:37:5-99
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:37:59-96
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:37:16-58
+service#com.epicgames.unreal.psoservices.OGLProgramService
+ADDED from Z:\app\src\main\AndroidManifest.xml:38:5-119
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:38:80-116
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:38:14-79
+service#com.epicgames.unreal.psoservices.OGLProgramService1
+ADDED from Z:\app\src\main\AndroidManifest.xml:39:5-121
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:39:81-118
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:39:14-80
+service#com.epicgames.unreal.psoservices.OGLProgramService2
+ADDED from Z:\app\src\main\AndroidManifest.xml:40:5-121
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:40:81-118
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:40:14-80
+service#com.epicgames.unreal.psoservices.OGLProgramService3
+ADDED from Z:\app\src\main\AndroidManifest.xml:41:5-121
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:41:81-118
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:41:14-80
+service#com.epicgames.unreal.psoservices.OGLProgramService4
+ADDED from Z:\app\src\main\AndroidManifest.xml:42:5-121
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:42:81-118
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:42:14-80
+service#com.epicgames.unreal.psoservices.OGLProgramService5
+ADDED from Z:\app\src\main\AndroidManifest.xml:43:5-121
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:43:81-118
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:43:14-80
+service#com.epicgames.unreal.psoservices.OGLProgramService6
+ADDED from Z:\app\src\main\AndroidManifest.xml:44:5-121
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:44:81-118
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:44:14-80
+service#com.epicgames.unreal.psoservices.OGLProgramService7
+ADDED from Z:\app\src\main\AndroidManifest.xml:45:5-121
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:45:81-118
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:45:14-80
+service#com.epicgames.unreal.psoservices.VulkanProgramService
+ADDED from Z:\app\src\main\AndroidManifest.xml:46:5-122
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:46:83-119
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:46:14-82
+service#com.epicgames.unreal.psoservices.VulkanProgramService1
+ADDED from Z:\app\src\main\AndroidManifest.xml:47:5-124
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:47:84-121
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:47:14-83
+service#com.epicgames.unreal.psoservices.VulkanProgramService2
+ADDED from Z:\app\src\main\AndroidManifest.xml:48:5-124
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:48:84-121
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:48:14-83
+service#com.epicgames.unreal.psoservices.VulkanProgramService3
+ADDED from Z:\app\src\main\AndroidManifest.xml:49:5-124
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:49:84-121
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:49:14-83
+service#com.epicgames.unreal.psoservices.VulkanProgramService4
+ADDED from Z:\app\src\main\AndroidManifest.xml:50:5-124
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:50:84-121
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:50:14-83
+service#com.epicgames.unreal.psoservices.VulkanProgramService5
+ADDED from Z:\app\src\main\AndroidManifest.xml:51:5-124
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:51:84-121
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:51:14-83
+service#com.epicgames.unreal.psoservices.VulkanProgramService6
+ADDED from Z:\app\src\main\AndroidManifest.xml:52:5-124
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:52:84-121
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:52:14-83
+service#com.epicgames.unreal.psoservices.VulkanProgramService7
+ADDED from Z:\app\src\main\AndroidManifest.xml:53:5-124
+	android:process
+		ADDED from Z:\app\src\main\AndroidManifest.xml:53:84-121
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:53:14-83
+service#com.epicgames.LatenzProjekt.OBBDownloaderService
+ADDED from Z:\app\src\main\AndroidManifest.xml:54:5-52
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:54:14-49
+receiver#com.epicgames.LatenzProjekt.AlarmReceiver
+ADDED from Z:\app\src\main\AndroidManifest.xml:55:5-46
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:55:15-43
+receiver#com.epicgames.unreal.LocalNotificationReceiver
+ADDED from Z:\app\src\main\AndroidManifest.xml:56:5-79
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:56:15-76
+receiver#com.epicgames.unreal.CellularReceiver
+ADDED from Z:\app\src\main\AndroidManifest.xml:57:5-70
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:57:15-67
+receiver#com.epicgames.unreal.MulticastBroadcastReceiver
+ADDED from Z:\app\src\main\AndroidManifest.xml:58:5-62:16
+	android:exported
+		ADDED from Z:\app\src\main\AndroidManifest.xml:58:78-101
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:58:15-77
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from Z:\app\src\main\AndroidManifest.xml:59:7-61:23
+action#com.android.vending.INSTALL_REFERRER
+ADDED from Z:\app\src\main\AndroidManifest.xml:60:9-71
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:60:17-68
+meta-data#android.max_aspect
+ADDED from Z:\app\src\main\AndroidManifest.xml:63:5-79
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:63:50-76
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:63:16-49
+service#com.epicgames.unreal.RemoteFileManagerService
+ADDED from Z:\app\src\main\AndroidManifest.xml:64:5-154
+	android:exported
+		ADDED from Z:\app\src\main\AndroidManifest.xml:64:116-139
+	__line
+		ADDED from Z:\app\src\main\AndroidManifest.xml:64:140-151
+	android:foregroundServiceType
+		ADDED from Z:\app\src\main\AndroidManifest.xml:64:75-115
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:64:14-74
+activity#com.epicgames.unreal.RemoteFileManagerActivity
+ADDED from Z:\app\src\main\AndroidManifest.xml:65:5-69:16
+	android:screenOrientation
+		ADDED from Z:\app\src\main\AndroidManifest.xml:65:101-135
+	android:exported
+		ADDED from Z:\app\src\main\AndroidManifest.xml:65:77-100
+	__line
+		ADDED from Z:\app\src\main\AndroidManifest.xml:65:183-194
+	android:theme
+		ADDED from Z:\app\src\main\AndroidManifest.xml:65:136-182
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:65:15-76
+intent-filter#action:name:com.epicgames.unreal.RemoteFileManager.intent.COMMAND2
+ADDED from Z:\app\src\main\AndroidManifest.xml:66:7-68:23
+	__line
+		ADDED from Z:\app\src\main\AndroidManifest.xml:66:22-33
+action#com.epicgames.unreal.RemoteFileManager.intent.COMMAND2
+ADDED from Z:\app\src\main\AndroidManifest.xml:67:9-101
+	__line
+		ADDED from Z:\app\src\main\AndroidManifest.xml:67:87-98
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:67:17-86
+meta-data#com.epicgames.unreal.RemoteFileManager.bAllowNetworkConnection
+ADDED from Z:\app\src\main\AndroidManifest.xml:70:5-129
+	__line
+		ADDED from Z:\app\src\main\AndroidManifest.xml:70:115-126
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:70:94-114
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:70:16-93
+uses-feature#0x00030000
+ADDED from Z:\app\src\main\AndroidManifest.xml:73:3-76
+	android:glEsVersion
+		ADDED from Z:\app\src\main\AndroidManifest.xml:73:17-49
+	android:required
+		ADDED from Z:\app\src\main\AndroidManifest.xml:73:50-73
+uses-permission#android.permission.INTERNET
+ADDED from Z:\app\src\main\AndroidManifest.xml:74:3-65
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:74:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from Z:\app\src\main\AndroidManifest.xml:75:3-79
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:75:20-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from Z:\app\src\main\AndroidManifest.xml:76:3-77
+MERGED from [com.google.android.gms:play-services-nearby:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\a9eaff1e6b5ecf3d6b2f9eacbb655bd8\transformed\jetified-play-services-nearby-18.1.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\a9eaff1e6b5ecf3d6b2f9eacbb655bd8\transformed\jetified-play-services-nearby-18.1.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:76:20-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from Z:\app\src\main\AndroidManifest.xml:77:3-66
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:77:20-63
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from Z:\app\src\main\AndroidManifest.xml:78:3-71
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:78:20-68
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from Z:\app\src\main\AndroidManifest.xml:79:3-74
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:79:20-71
+uses-permission#com.android.vending.BILLING
+ADDED from Z:\app\src\main\AndroidManifest.xml:80:3-65
+MERGED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:10:5-67
+MERGED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:80:20-62
+supports-gl-texture#GL_KHR_texture_compression_astc_ldr
+ADDED from Z:\app\src\main\AndroidManifest.xml:82:3-77
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:82:24-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from Z:\app\src\main\AndroidManifest.xml:83:3-87
+	__line
+		ADDED from Z:\app\src\main\AndroidManifest.xml:83:73-84
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:83:20-72
+uses-permission#android.permission.FOREGROUND_SERVICE_DATA_SYNC
+ADDED from Z:\app\src\main\AndroidManifest.xml:84:3-97
+	__line
+		ADDED from Z:\app\src\main\AndroidManifest.xml:84:83-94
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:84:20-82
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from Z:\app\src\main\AndroidManifest.xml:85:3-87
+	__line
+		ADDED from Z:\app\src\main\AndroidManifest.xml:85:73-84
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:85:20-72
+uses-feature#android.hardware.vr.headtracking
+ADDED from Z:\app\src\main\AndroidManifest.xml:86:3-123
+	android:version
+		ADDED from Z:\app\src\main\AndroidManifest.xml:86:65-84
+	__line
+		ADDED from Z:\app\src\main\AndroidManifest.xml:86:109-120
+	android:required
+		ADDED from Z:\app\src\main\AndroidManifest.xml:86:85-108
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:86:17-64
+uses-feature#android.hardware.usb.host
+ADDED from Z:\app\src\main\AndroidManifest.xml:87:3-72
+	__line
+		ADDED from Z:\app\src\main\AndroidManifest.xml:87:58-69
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:87:17-57
+uses-sdk
+INJECTED from Z:\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from Z:\app\src\main\AndroidManifest.xml
+INJECTED from Z:\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\a9eaff1e6b5ecf3d6b2f9eacbb655bd8\transformed\jetified-play-services-nearby-18.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\a9eaff1e6b5ecf3d6b2f9eacbb655bd8\transformed\jetified-play-services-nearby-18.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-games:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\9f7a1604835189e8b54a49a96ca562c9\transformed\jetified-play-services-games-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\9f7a1604835189e8b54a49a96ca562c9\transformed\jetified-play-services-games-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\9937cabe4b85952427cb2ed2f6611786\transformed\jetified-play-services-plus-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\9937cabe4b85952427cb2ed2f6611786\transformed\jetified-play-services-plus-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:downloader_library] Z:\downloader_library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-43
+MERGED from [:downloader_library] Z:\downloader_library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-43
+MERGED from [:permission_library] Z:\permission_library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_library] Z:\permission_library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\eac3973f25233c102521c06b2f987e0f\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\eac3973f25233c102521c06b2f987e0f\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\b30514a67f00e2ec8f326dd4052357b6\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\b30514a67f00e2ec8f326dd4052357b6\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\ca5acccb01c23b0ce838e29d6d80f72f\transformed\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\ca5acccb01c23b0ce838e29d6d80f72f\transformed\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\2d9def97134e265efc1ff5bf03065716\transformed\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\2d9def97134e265efc1ff5bf03065716\transformed\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\7fae42d38903fc3cc638a896827515eb\transformed\jetified-play-services-drive-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\7fae42d38903fc3cc638a896827515eb\transformed\jetified-play-services-drive-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\c36258807b19219a7ebb8d3d0b3f6b8b\transformed\jetified-play-services-audience-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:17.0.0] C:\Users\leene\.gradle\caches\transforms-3\c36258807b19219a7ebb8d3d0b3f6b8b\transformed\jetified-play-services-audience-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\13e38bc0a68c75c157006028828b6577\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\13e38bc0a68c75c157006028828b6577\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\2cf03844490b7518ec0cc15b7be6ecd0\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\2cf03844490b7518ec0cc15b7be6ecd0\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\leene\.gradle\caches\transforms-3\012bcd816ec95d1808dfe2e9ce2ff0ec\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\leene\.gradle\caches\transforms-3\012bcd816ec95d1808dfe2e9ce2ff0ec\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\5675b3009f8a286376d2ee267b9a035e\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\5675b3009f8a286376d2ee267b9a035e\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\3fa6512a9d4dee4adc600ab35404b8df\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\3fa6512a9d4dee4adc600ab35404b8df\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\leene\.gradle\caches\transforms-3\0b8921ecb709d584d59cb98b15117b47\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\leene\.gradle\caches\transforms-3\0b8921ecb709d584d59cb98b15117b47\transformed\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\leene\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\leene\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\leene\.gradle\caches\transforms-3\adaab2e47a8e09712ca42623bfb1f04a\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\leene\.gradle\caches\transforms-3\adaab2e47a8e09712ca42623bfb1f04a\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\0804243bad5248514c5a434f41073d07\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\0804243bad5248514c5a434f41073d07\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\a35993eb5176732de8b2517e5bc10719\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\a35993eb5176732de8b2517e5bc10719\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\7ed5c773499d96899d12683379018bd7\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\7ed5c773499d96899d12683379018bd7\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\eb59ad3ff2cc3f8ea455ecf10b9a5b47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\eb59ad3ff2cc3f8ea455ecf10b9a5b47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\b31efb9b62a939b56fecae300029b614\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\b31efb9b62a939b56fecae300029b614\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\a7154ee6fec4f38ca05d36393363001c\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\a7154ee6fec4f38ca05d36393363001c\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\e1ac4ba11c7505a756ac68281c03c2ce\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\e1ac4ba11c7505a756ac68281c03c2ce\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\leene\.gradle\caches\transforms-3\c36b0462f8317d38911235ec040e17dc\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\leene\.gradle\caches\transforms-3\c36b0462f8317d38911235ec040e17dc\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\leene\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from Z:\app\src\main\AndroidManifest.xml
+INJECTED from Z:\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+		ADDED from Z:\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+		ADDED from Z:\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\AndroidManifest.xml:34:13-89
+service#com.google.android.gms.nearby.exposurenotification.WakeUpService
+ADDED from [com.google.android.gms:play-services-nearby:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\a9eaff1e6b5ecf3d6b2f9eacbb655bd8\transformed\jetified-play-services-nearby-18.1.0\AndroidManifest.xml:10:9-13:105
+	android:exported
+		ADDED from [com.google.android.gms:play-services-nearby:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\a9eaff1e6b5ecf3d6b2f9eacbb655bd8\transformed\jetified-play-services-nearby-18.1.0\AndroidManifest.xml:12:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-nearby:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\a9eaff1e6b5ecf3d6b2f9eacbb655bd8\transformed\jetified-play-services-nearby-18.1.0\AndroidManifest.xml:13:13-102
+	android:name
+		ADDED from [com.google.android.gms:play-services-nearby:18.1.0] C:\Users\leene\.gradle\caches\transforms-3\a9eaff1e6b5ecf3d6b2f9eacbb655bd8\transformed\jetified-play-services-nearby-18.1.0\AndroidManifest.xml:11:13-92
+queries
+ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:12:5-16:15
+intent#action:name:com.android.vending.billing.InAppBillingService.BIND
+ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:13:9-15:18
+action#com.android.vending.billing.InAppBillingService.BIND
+ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:14:13-91
+	android:name
+		ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:14:21-88
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:19:9-21:37
+	android:value
+		ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:21:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:20:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:23:9-27:75
+	android:exported
+		ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:26:13-37
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:25:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:6.0.0] C:\Users\leene\.gradle\caches\transforms-3\5a4d9fbce4ab5e0e90f7d5c798e4044e\transformed\jetified-billing-6.0.0\AndroidManifest.xml:24:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\13e38bc0a68c75c157006028828b6577\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\13e38bc0a68c75c157006028828b6577\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\13e38bc0a68c75c157006028828b6577\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\leene\.gradle\caches\transforms-3\13e38bc0a68c75c157006028828b6577\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\ce7507adbf9f33272e4adb45414c601e\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\leene\.gradle\caches\transforms-3\29ba42eb96a84ee4f6a12593cdfb2b04\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\0804243bad5248514c5a434f41073d07\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\0804243bad5248514c5a434f41073d07\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\0804243bad5248514c5a434f41073d07\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\0804243bad5248514c5a434f41073d07\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\leene\.gradle\caches\transforms-3\0804243bad5248514c5a434f41073d07\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79

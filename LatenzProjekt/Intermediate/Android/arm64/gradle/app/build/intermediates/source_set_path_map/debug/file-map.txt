@@ -1,0 +1,17 @@
+com.epicgames.LatenzProjekt.app-jetified-play-services-basement-18.0.0-0 C:\Users\leene\.gradle\caches\transforms-3\012bcd816ec95d1808dfe2e9ce2ff0ec\transformed\jetified-play-services-basement-18.0.0\res
+com.epicgames.LatenzProjekt.app-core-1.2.0-1 C:\Users\leene\.gradle\caches\transforms-3\0b8921ecb709d584d59cb98b15117b47\transformed\core-1.2.0\res
+com.epicgames.LatenzProjekt.app-jetified-play-services-base-18.0.1-2 C:\Users\leene\.gradle\caches\transforms-3\13e38bc0a68c75c157006028828b6577\transformed\jetified-play-services-base-18.0.1\res
+com.epicgames.LatenzProjekt.app-coordinatorlayout-1.0.0-3 C:\Users\leene\.gradle\caches\transforms-3\3fa6512a9d4dee4adc600ab35404b8df\transformed\coordinatorlayout-1.0.0\res
+com.epicgames.LatenzProjekt.app-jetified-play-services-auth-18.1.0-4 C:\Users\leene\.gradle\caches\transforms-3\59d99c77b2ee4662dba4da8f1f574158\transformed\jetified-play-services-auth-18.1.0\res
+com.epicgames.LatenzProjekt.app-jetified-play-services-plus-17.0.0-5 C:\Users\leene\.gradle\caches\transforms-3\9937cabe4b85952427cb2ed2f6611786\transformed\jetified-play-services-plus-17.0.0\res
+com.epicgames.LatenzProjekt.app-media-1.0.0-6 C:\Users\leene\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\res
+com.epicgames.LatenzProjekt.app-pngs-7 Z:\app\build\generated\res\pngs\debug
+com.epicgames.LatenzProjekt.app-resValues-8 Z:\app\build\generated\res\resValues\debug
+com.epicgames.LatenzProjekt.app-rs-9 Z:\app\build\generated\res\rs\debug
+com.epicgames.LatenzProjekt.app-mergeDebugResources-10 Z:\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.epicgames.LatenzProjekt.app-mergeDebugResources-11 Z:\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.epicgames.LatenzProjekt.app-merged_res-12 Z:\app\build\intermediates\merged_res\debug
+com.epicgames.LatenzProjekt.app-debug-13 Z:\app\src\debug\res
+com.epicgames.LatenzProjekt.app-main-14 Z:\app\src\main\res
+com.epicgames.LatenzProjekt.app-packaged_res-15 Z:\downloader_library\build\intermediates\packaged_res\debug
+com.epicgames.LatenzProjekt.app-packaged_res-16 Z:\permission_library\build\intermediates\packaged_res\debug

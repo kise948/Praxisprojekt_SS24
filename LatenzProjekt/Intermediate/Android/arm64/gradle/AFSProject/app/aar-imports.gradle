@@ -1,0 +1,10 @@
+repositories {
+	maven { url uri('C:/Program Files/Epic Games/UE_5.3/Engine/Source/ThirdParty/Android/extras/google/m2repository') }
+	maven { url uri('C:/Program Files/Epic Games/UE_5.3/Engine/Source/ThirdParty/Android/extras/android/m2repository') }
+}
+dependencies {
+	implementation 'com.google.android.gms:play-services-auth:18.1.0'
+	implementation 'com.google.android.gms:play-services-nearby:18.1.0'
+	implementation 'com.google.android.gms:play-services-games:18.0.1'
+	implementation 'com.google.android.gms:play-services-plus:17.0.0'
+}

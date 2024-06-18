@@ -7,6 +7,10 @@
 *.o
 *.obj
 *.pdb
+*.apk
+*.jar
+*.obb
+*.ucas
 
 # Precompiled Headers
 *.gch
