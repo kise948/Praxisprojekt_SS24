@@ -12,6 +12,13 @@
 				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/StarterContent/Architecture/Wall_400x400.uasset",
 				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
 				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/WidgetMenu.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Input/Actions/NewActions/IA_TurnAround.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Input/Actions/NewActions/IA_MoveAround.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Input/Actions/NewActions/IA_MoveX.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Input/Actions/NewActions/IA_MoveY.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Input/Actions/NewActions/IA_MoveForward.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Input/Actions/NewActions/IA_Turn.uasset",
 				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/VRPAWN_DELAY.uasset"
 			]
 		}
