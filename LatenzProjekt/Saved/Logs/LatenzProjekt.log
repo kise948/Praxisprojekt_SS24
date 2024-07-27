@@ -3973,3 +3973,289 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.07.27-18.13.03:745][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 2.18 sec)
 [2024.07.27-18.13.03:747][523]AssetCheck: New page: Asset Save: Lobby
 [2024.07.27-18.13.03:747][523]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.15.43:875][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:876][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:877][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:877][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:878][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:879][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:879][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:880][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:881][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:882][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:882][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:883][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:883][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:884][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:884][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:885][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:885][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:886][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:886][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:887][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:887][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:888][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:889][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:889][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:890][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:890][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:891][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:907][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.07.27-18.15.43:908][824]LogEditorActor: Deleted 27 Actors (0.034 secs)
+[2024.07.27-18.16.33:802][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.16.33:868][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.07.27-18.16.33:879][923]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.16.33:880][923]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Lobby00B9757540F8005D25128DB2F6F20C8A.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.16.33:885][923]LogFileHelpers: Saving map 'Lobby' took 0.038
+[2024.07.27-18.16.33:893][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 2.27 sec)
+[2024.07.27-18.16.33:894][923]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.16.33:894][923]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.17.03:370][320]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.07.27-18.17.03:383][320]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.07.27-18.17.03:395][320]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.07.27-18.17.03:414][321]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.07.27-18.17.05:627][507]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.07.27-18.17.05:633][507]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.07.27-18.17.14:639][243]LogContentBrowser: Attempting asset rename: NewBlueprint -> LobbyActor
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.LobbyActor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.SKEL_LobbyActor_C:UserConstructionScript' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.SKEL_LobbyActor_C' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.LobbyActor_C' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.LobbyActor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.LobbyActor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.LobbyActor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:665][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.17.14:706][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.17.14:708][243]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.17.14:708][243]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActor95A0574342BB3ABBE43DE884A74B87EF.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.17.14:725][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.33 sec)
+[2024.07.27-18.17.14:748][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.07.27-18.17.14:764][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.07.27-18.17.14:776][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.07.27-18.17.14:779][243]AssetCheck: New page: Asset Save: LobbyActor
+[2024.07.27-18.17.14:779][243]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.17.20:693][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.17.20:694][382]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.17.20:694][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-18.17.20:865][382]LogViewport: Scene viewport resized to 2029x1101, mode Windowed.
+[2024.07.27-18.19.49:201][502]LogSlate: Took 0.004589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.07.27-18.23.15:396][321]BlueprintLog: New page: Compile LobbyActor
+[2024.07.27-18.23.15:426][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.07.27-18.23.22:079][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.23.22:116][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.23.22:120][103]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.23.22:120][103]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActor1B8F6BE547B061C91194B2A6D95B3840.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.23.22:130][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.38 sec)
+[2024.07.27-18.23.22:131][103]AssetCheck: New page: Asset Save: LobbyActor
+[2024.07.27-18.23.22:132][103]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.25.42:877][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.25.42:911][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.25.42:915][698]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.25.42:915][698]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActorECE161504DD5242B9ECCB5AA36780BAF.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.25.42:925][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 2.43 sec)
+[2024.07.27-18.25.42:926][698]AssetCheck: New page: Asset Save: LobbyActor
+[2024.07.27-18.25.42:926][698]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.27.43:491][312]BlueprintLog: New page: Compile LobbyActor
+[2024.07.27-18.27.43:525][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.27-18.28.07:867][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.07.27-18.28.07:882][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Worlds/LobbyMap_Auto1
+[2024.07.27-18.28.07:882][651]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyMap_Auto1784207EC4E5A889052BE82B5191CF4CA.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Autosaves/Game/VRTemplate/Worlds/LobbyMap_Auto1.umap'
+[2024.07.27-18.28.07:883][651]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Autosaves/Game/VRTemplate/Worlds/LobbyMap_Auto1.umap is in the /Temp path, will not scan.
+[2024.07.27-18.28.07:883][651]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/VRTemplate/Worlds/LobbyMap_Auto1 is in the /Temp path, will not scan.
+[2024.07.27-18.28.07:883][651]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/VRTemplate/Worlds/LobbyMap_Auto1 is in the /Temp path, will not scan.
+[2024.07.27-18.28.07:884][651]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Worlds/LobbyMap' took 0.032
+[2024.07.27-18.28.07:884][651]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2024.07.27-18.28.07:884][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Levels/LobbyActor] ([2] browsable assets)...
+[2024.07.27-18.28.07:884][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Levels/LobbyActor]
+[2024.07.27-18.28.07:889][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Levels/LobbyActor_Auto1
+[2024.07.27-18.28.07:889][651]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActor_Auto1D8F64089407472E52748078C4F0502A6.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Autosaves/Game/VRTemplate/Levels/LobbyActor_Auto1.uasset'
+[2024.07.27-18.28.07:889][651]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.07.27-18.28.41:829][461]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/LobbyActor.LobbyActor_C
+[2024.07.27-18.28.41:829][461]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/LobbyActor.LobbyActor_C
+[2024.07.27-18.28.41:830][461]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor as actor: LobbyActor_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.LobbyActor_C_0
+[2024.07.27-18.28.41:831][461]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor as actor: LobbyActor_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.LobbyActor_C_0
+[2024.07.27-18.28.42:551][508]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/LobbyActor.LobbyActor_C
+[2024.07.27-18.28.42:551][508]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/LobbyActor.LobbyActor_C
+[2024.07.27-18.28.42:554][508]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor as actor: LobbyActor_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.LobbyActor_C_1
+[2024.07.27-18.28.42:555][508]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor as actor: LobbyActor_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.LobbyActor_C_1
+[2024.07.27-18.29.56:895][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.29.56:931][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.29.56:936][244]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.29.56:936][244]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActor69DDC3BC486AC3D26267C2AF745308DB.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.29.56:945][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.48 sec)
+[2024.07.27-18.29.56:947][244]AssetCheck: New page: Asset Save: LobbyActor
+[2024.07.27-18.29.56:947][244]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.30.03:643][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.30.03:681][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.30.03:686][ 17]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.30.03:687][ 17]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActor87D198234FB4082E13A6918B66BD0A77.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.30.03:695][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 2.53 sec)
+[2024.07.27-18.30.03:697][ 17]AssetCheck: New page: Asset Save: LobbyActor
+[2024.07.27-18.30.03:697][ 17]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.30.05:466][227]BlueprintLog: New page: Compile LobbyActor
+[2024.07.27-18.30.05:503][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.07.27-18.32.31:873][473]LogContentBrowser: Deferred new asset file creation: LobbyActor1
+[2024.07.27-18.32.31:891][473]LogContentBrowser: Creating deferred item: LobbyActor1
+[2024.07.27-18.32.31:910][474]LogContentBrowser: Renaming the item being created (Deferred Item: LobbyActor1).
+[2024.07.27-18.32.34:579][676]LogContentBrowser: Attempting asset rename: LobbyActor1 -> Level1
+[2024.07.27-18.32.34:602][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.07.27-18.32.34:617][676]LogContentBrowser: End creating deferred item LobbyActor1
+[2024.07.27-18.32.49:439][754]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level1.Level1_C
+[2024.07.27-18.32.49:439][754]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level1.Level1_C
+[2024.07.27-18.32.49:441][754]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level1.Level1 as actor: Level1_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level1_C_0
+[2024.07.27-18.32.49:442][754]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level1.Level1 as actor: Level1_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level1_C_0
+[2024.07.27-18.32.50:031][786]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level1.Level1_C
+[2024.07.27-18.32.50:031][786]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level1.Level1_C
+[2024.07.27-18.32.50:033][786]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level1.Level1 as actor: Level1_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level1_C_1
+[2024.07.27-18.32.50:034][786]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level1.Level1 as actor: Level1_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level1_C_1
+[2024.07.27-18.32.58:465][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.32.58:527][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.07.27-18.32.58:538][414]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.32.58:538][414]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Lobby9E4E317B4FAD1810706FAC946A5A2F7D.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.32.58:543][414]LogFileHelpers: Saving map 'Lobby' took 0.035
+[2024.07.27-18.32.58:556][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 2.62 sec)
+[2024.07.27-18.32.58:558][414]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.32.58:558][414]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.33.34:211][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.07.27-18.33.35:389][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.27-18.33.36:273][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.07.27-18.33.37:780][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.33.37:818][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level1" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level1.uasset" SILENT=true
+[2024.07.27-18.33.37:823][469]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level1
+[2024.07.27-18.33.37:823][469]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level1AFEB1CE54413252965B51B9B5A2106C4.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level1.uasset'
+[2024.07.27-18.33.37:837][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 2.68 sec)
+[2024.07.27-18.33.37:837][469]AssetCheck: New page: Asset Save: Level1
+[2024.07.27-18.33.37:837][469]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level1.Level1
+[2024.07.27-18.33.47:188][155]LogDerivedDataCache: C:/Users/leene/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 941 files in 1655 folders with total size 31 MiB.
+[2024.07.27-18.34.40:183][175]LogContentBrowser: Attempting asset rename: LobbyActor -> Level0
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0_C' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.SKEL_Level0_C' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.SKEL_Level0_C:UserConstructionScript' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.SKEL_Level0_C:ReceiveTick' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.SKEL_Level0_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.SKEL_Level0_C:ReceiveBeginPlay' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:226][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.34.40:273][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level0" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level0.uasset" SILENT=true
+[2024.07.27-18.34.40:278][175]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level0
+[2024.07.27-18.34.40:278][175]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level0B191E7A94B14F654FB2AA4BFBC778181.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level0.uasset'
+[2024.07.27-18.34.40:284][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.34.40:285][175]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.34.40:285][175]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActorF270657F44C98261EE2782A32DA91FF8.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.34.40:302][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.76 sec)
+[2024.07.27-18.34.40:304][175]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.27-18.34.40:304][175]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level0.Level0
+[2024.07.27-18.34.40:304][175]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/VRTemplate/Levels/LobbyActor.LobbyActor_C
+[2024.07.27-18.34.40:304][175]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/VRTemplate/Levels/LobbyActor.Default__LobbyActor_C
+[2024.07.27-18.34.40:304][175]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.34.48:561][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.34.48:615][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.07.27-18.34.48:627][804]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.34.48:627][804]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Lobby3A78BAFD43BB7A848A87E4B4CDF4F8AD.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.34.48:632][804]LogFileHelpers: Saving map 'Lobby' took 0.034
+[2024.07.27-18.34.48:642][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.84 sec)
+[2024.07.27-18.34.48:643][804]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.34.48:643][804]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.34.54:405][250]Cmd: DELETE
+[2024.07.27-18.34.54:405][250]Cmd: ACTOR DELETE
+[2024.07.27-18.34.54:409][250]LogEditorActor: Deleted Actor: Level0_C
+[2024.07.27-18.34.54:422][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.27-18.34.54:424][250]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.07.27-18.34.55:345][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level0.Level0_C
+[2024.07.27-18.34.55:345][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level0.Level0_C
+[2024.07.27-18.34.55:346][322]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level0.Level0 as actor: Level0_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level0_C_2
+[2024.07.27-18.34.55:347][322]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level0.Level0 as actor: Level0_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level0_C_2
+[2024.07.27-18.34.55:549][330]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level0.Level0_C
+[2024.07.27-18.34.55:549][330]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level0.Level0_C
+[2024.07.27-18.34.55:551][330]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level0.Level0 as actor: Level0_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level0_C_3
+[2024.07.27-18.34.55:551][330]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level0.Level0 as actor: Level0_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level0_C_3
+[2024.07.27-18.35.32:390][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.35.32:452][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.07.27-18.35.32:463][138]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.35.32:463][138]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Lobby951FF950437DE945EA22C5B05749EA87.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.35.32:470][138]LogFileHelpers: Saving map 'Lobby' took 0.035
+[2024.07.27-18.35.32:479][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.93 sec)
+[2024.07.27-18.35.32:480][138]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.35.32:480][138]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.43.07:306][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.07.27-18.43.08:473][302]LogSlate: Window 'Save Content' being destroyed
+[2024.07.27-18.43.08:501][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.43.08:583][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.07.27-18.43.08:597][302]LogSavePackage: Moving output files for package: /Game/VRTemplate/Worlds/LobbyMap
+[2024.07.27-18.43.08:597][302]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyMap5B1F81084FC9DF241BB19BB8654789B3.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Worlds/LobbyMap.umap'
+[2024.07.27-18.43.08:603][302]LogFileHelpers: All files are already saved.
+[2024.07.27-18.43.08:603][302]LogFileHelpers: Saving map 'LobbyMap' took 0.057
+[2024.07.27-18.43.08:603][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level2" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level2.uasset" SILENT=true
+[2024.07.27-18.43.08:608][302]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level2
+[2024.07.27-18.43.08:608][302]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level270BC4E9F47EB52D97C232B83758D42FA.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level2.uasset'
+[2024.07.27-18.43.08:613][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level3" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level3.uasset" SILENT=true
+[2024.07.27-18.43.08:617][302]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level3
+[2024.07.27-18.43.08:617][302]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level3389FCC704D8238744AADE08C42EEE35E.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level3.uasset'
+[2024.07.27-18.43.08:621][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level4" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level4.uasset" SILENT=true
+[2024.07.27-18.43.08:625][302]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level4
+[2024.07.27-18.43.08:625][302]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level4649FA7514D6DE65FDFF7AC94F2756782.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level4.uasset'
+[2024.07.27-18.43.08:633][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/UI/MainMenu" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/MainMenu.uasset" SILENT=true
+[2024.07.27-18.43.08:640][302]LogSavePackage: Moving output files for package: /Game/VRTemplate/UI/MainMenu
+[2024.07.27-18.43.08:641][302]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/MainMenu027E773349D84DCE1A04238425258CC4.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/MainMenu.uasset'
+[2024.07.27-18.43.08:652][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 3.08 sec)
+[2024.07.27-18.43.08:697][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.43.08:700][302]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Worlds/MainMenuMap.MainMenuMap
+[2024.07.27-18.43.08:700][302]Cmd: MAP LOAD FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Worlds/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.27-18.43.08:700][302]LightingResults: New page: Lighting Build
+[2024.07.27-18.43.08:701][302]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2024.07.27-18.43.08:749][302]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.43.08:749][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.43.08:749][302]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.43.08:749][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.43.08:751][302]MapCheck: New page: Map Check
+[2024.07.27-18.43.08:751][302]LightingResults: New page: Lighting Build
+[2024.07.27-18.43.08:764][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.27-18.43.08:771][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.27-18.43.08:774][302]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.43.08:774][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.43.08:790][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.07.27-18.43.08:806][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.07.27-18.43.08:814][302]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2024.07.27-18.43.08:814][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.43.08:814][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-18.43.08:815][302]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.07.27-18.43.08:852][302]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.27-18.43.08:873][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.07.27-18.43.08:879][302]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.27-18.43.08:879][302]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,09ms to complete.
+[2024.07.27-18.43.08:895][302]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.27-18.43.08:895][302]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level2.Level2
+[2024.07.27-18.43.08:895][302]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level3.Level3
+[2024.07.27-18.43.08:895][302]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level4.Level4
+[2024.07.27-18.43.08:895][302]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/VRTemplate/UI/MainMenu.MainMenu
+[2024.07.27-18.43.08:915][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.07.27-18.43.38:161][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.07.27-18.43.38:212][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.43.38:218][ 54]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Worlds/LobbyMap.LobbyMap
+[2024.07.27-18.43.38:218][ 54]Cmd: MAP LOAD FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Worlds/LobbyMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.27-18.43.38:218][ 54]LightingResults: New page: Lighting Build
+[2024.07.27-18.43.38:218][ 54]LoadErrors: New page: Loading map: LobbyMap.umap
+[2024.07.27-18.43.38:239][ 54]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.43.38:239][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.43.38:240][ 54]MapCheck: New page: Map Check
+[2024.07.27-18.43.38:240][ 54]LightingResults: New page: Lighting Build
+[2024.07.27-18.43.38:254][ 54]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.27-18.43.38:257][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.07.27-18.43.38:259][ 54]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.43.38:259][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.43.38:275][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.07.27-18.43.38:289][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.07.27-18.43.38:301][ 54]LogAudio: Display: Audio Device (ID: 1) registered with world 'LobbyMap'.
+[2024.07.27-18.43.38:301][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.43.38:301][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-18.43.38:301][ 54]LogAIModule: Creating AISystem for world LobbyMap
+[2024.07.27-18.43.38:306][ 54]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/VRTemplate/Levels/Lobby) is flushing async loading
+[2024.07.27-18.43.38:306][ 54]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.07.27-18.43.38:468][ 54]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.27-18.43.38:490][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.07.27-18.43.38:495][ 54]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.27-18.43.38:495][ 54]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,137ms to complete.
