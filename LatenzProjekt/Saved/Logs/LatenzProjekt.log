@@ -3166,6 +3166,7 @@ The following settings have been applied:
 [2024.07.27-13.54.36:881][ 54]LogMaterial: Warning: [AssetLog] C:\Praxisprojekt_SS24\LatenzProjekt\Content\VRTemplate\Materials\Functions\MF_OccludedPixels.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
 	Only transparent or postprocess materials can read from scene depth.
 
+<<<<<<< Updated upstream
 [2024.07.27-13.54.36:915][ 55]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.07.27-13.54.37:238][ 92]LogShaderCompilers: Display: ================================================
 [2024.07.27-13.54.37:238][ 92]LogShaderCompilers: Display: === FShaderJobCache stats ===
@@ -4429,4 +4430,1375 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.07.27-18.36.07:551][ 26]LogExit: Exiting.
 [2024.07.27-18.36.07:575][ 26]Log file closed, 07/27/24 20:36:07
 =======
+>>>>>>> Stashed changes
+=======
+[2024.07.27-17.50.35:961][821]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.50.38:132][  0]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.07.27-17.50.38:132][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.50.38:133][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-17.50.49:381][960]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.27-17.50.58:221][819]BlueprintLog: New page: Compile VRPawn
+[2024.07.27-17.50.58:326][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.07.27-17.51.06:525][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-17.51.06:628][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.07.27-17.51.06:719][532]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.07.27-17.51.06:721][532]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/VRPawn250A3B9F43BFE51605484498197B8D6C.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.07.27-17.51.06:737][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 1.88 sec)
+[2024.07.27-17.51.06:741][532]AssetCheck: New page: Asset Save: VRPawn
+[2024.07.27-17.51.06:742][532]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.07.27-17.51.07:009][556]BlueprintLog: New page: Compile VRPawn
+[2024.07.27-17.51.07:104][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.07.27-17.51.11:251][717]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.27-17.51.11:261][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.27-17.51.11:261][717]PIE: New page: PIE session: MainMenuMap (27 Jul 2024, 21:51:11)
+[2024.07.27-17.51.11:261][717]LogPlayLevel: Creating play world package: /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap
+[2024.07.27-17.51.11:262][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002294s)
+[2024.07.27-17.51.11:262][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Worlds/MainMenuMap.MainMenuMap to /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap.MainMenuMap (0.002329s)
+[2024.07.27-17.51.11:280][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.07.27-17.51.11:281][717]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.51.11:281][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-17.51.11:281][717]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.07.27-17.51.11:282][717]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2024.07.27-17.51.11:282][717]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.07.27-17.51.11:282][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.27-17.51.11:282][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.27-17.51.11:282][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.27-17.51.11:282][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.27-17.51.11:282][717]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.27-17.51.11:282][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.27-17.51.11:282][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.27-17.51.11:282][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.27-17.51.11:282][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.27-17.51.11:282][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.27-17.51.11:282][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.27-17.51.11:285][717]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.27-17.51.11:303][717]LogAudioMixer: Display: Using Audio Hardware Device Logitech Speakers (High Definition Audio Device)
+[2024.07.27-17.51.11:303][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.27-17.51.11:303][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.27-17.51.11:303][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.27-17.51.11:305][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.07.27-17.51.11:305][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.07.27-17.51.11:307][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.07.27-17.51.11:307][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.07.27-17.51.11:307][717]LogInit: FAudioDevice initialized with ID 24.
+[2024.07.27-17.51.11:307][717]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMenuMap'.
+[2024.07.27-17.51.11:307][717]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.07.27-17.51.11:327][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.27-17.51.11:474][717]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.27-17.51.11:476][717]LogWorld: Bringing World /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2024.07.27-19.51.11
+[2024.07.27-17.51.11:476][717]LogWorld: Bringing up level for play took: 0.001627
+[2024.07.27-17.51.11:479][717]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.07.27-17.51.11:482][717]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.07.27-17.51.11:484][717]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.27-17.51.11:485][717]vr.PixelDensity = "1"
+[2024.07.27-17.51.11:491][717]PIE: Server logged in
+[2024.07.27-17.51.11:496][717]PIE: Play in editor total start time 0,236 seconds.
+[2024.07.27-17.51.11:510][717]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2024.07.27-17.51.12:028][717]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.07.27-17.51.12:453][718]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.07.27-17.51.33:926][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.27-17.51.33:926][796]LogWorld: BeginTearingDown for /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap
+[2024.07.27-17.51.33:993][796]LogSlate: Window 'LatenzProjekt Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.99.0)' being destroyed
+[2024.07.27-17.51.33:997][796]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.51.33:998][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.51.34:001][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.27-17.51.34:006][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.51.34:021][796]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.27-17.51.34:021][796]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.07.27-17.51.34:021][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.07.27-17.51.34:023][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.07.27-17.51.34:030][796]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.27-17.51.34:030][796]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.27-17.51.34:031][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.07.27-17.51.34:113][797]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.07.27-17.52.31:150][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-17.52.31:197][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/UI/MainMenu" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/MainMenu.uasset" SILENT=true
+[2024.07.27-17.52.31:204][284]LogSavePackage: Moving output files for package: /Game/VRTemplate/UI/MainMenu
+[2024.07.27-17.52.31:204][284]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/MainMenuB9A4F68D4894819182DB5CBA2B726D34.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/MainMenu.uasset'
+[2024.07.27-17.52.31:214][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.94 sec)
+[2024.07.27-17.52.31:216][284]AssetCheck: New page: Asset Save: MainMenu
+[2024.07.27-17.52.31:216][284]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/VRTemplate/UI/MainMenu.MainMenu
+[2024.07.27-17.52.31:962][372]BlueprintLog: New page: Compile MainMenu
+[2024.07.27-17.52.32:000][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.07.27-17.52.34:812][511]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.27-17.52.34:821][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.27-17.52.34:821][511]PIE: New page: PIE session: MainMenuMap (27 Jul 2024, 21:52:34)
+[2024.07.27-17.52.34:821][511]LogPlayLevel: Creating play world package: /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap
+[2024.07.27-17.52.34:823][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002350s)
+[2024.07.27-17.52.34:823][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Worlds/MainMenuMap.MainMenuMap to /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap.MainMenuMap (0.002384s)
+[2024.07.27-17.52.34:840][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.07.27-17.52.34:841][511]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.52.34:841][511]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-17.52.34:842][511]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.07.27-17.52.34:842][511]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2024.07.27-17.52.34:842][511]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.07.27-17.52.34:842][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.27-17.52.34:842][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.27-17.52.34:842][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.27-17.52.34:842][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.27-17.52.34:842][511]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.27-17.52.34:842][511]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.27-17.52.34:842][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.27-17.52.34:842][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.27-17.52.34:843][511]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.27-17.52.34:843][511]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.27-17.52.34:843][511]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.27-17.52.34:845][511]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.27-17.52.34:864][511]LogAudioMixer: Display: Using Audio Hardware Device Logitech Speakers (High Definition Audio Device)
+[2024.07.27-17.52.34:865][511]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.27-17.52.34:865][511]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.27-17.52.34:865][511]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.27-17.52.34:866][511]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.07.27-17.52.34:866][511]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.07.27-17.52.34:867][511]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.07.27-17.52.34:867][511]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.07.27-17.52.34:867][511]LogInit: FAudioDevice initialized with ID 25.
+[2024.07.27-17.52.34:867][511]LogAudio: Display: Audio Device (ID: 25) registered with world 'MainMenuMap'.
+[2024.07.27-17.52.34:868][511]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.07.27-17.52.34:891][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.27-17.52.35:043][511]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.27-17.52.35:045][511]LogWorld: Bringing World /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2024.07.27-19.52.35
+[2024.07.27-17.52.35:046][511]LogWorld: Bringing up level for play took: 0.001957
+[2024.07.27-17.52.35:048][511]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.07.27-17.52.35:050][511]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.07.27-17.52.35:052][511]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.27-17.52.35:053][511]vr.PixelDensity = "1"
+[2024.07.27-17.52.35:060][511]PIE: Server logged in
+[2024.07.27-17.52.35:064][511]PIE: Play in editor total start time 0,243 seconds.
+[2024.07.27-17.52.35:084][511]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2024.07.27-17.52.35:127][511]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.07.27-17.52.35:158][512]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.07.27-17.52.39:718][842]LogNet: Browse: /Game/VRTemplate/Worlds/LobbyMap
+[2024.07.27-17.52.39:718][842]LogLoad: LoadMap: /Game/VRTemplate/Worlds/LobbyMap
+[2024.07.27-17.52.39:718][842]LogWorld: BeginTearingDown for /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap
+[2024.07.27-17.52.39:719][842]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.52.39:719][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.52.39:770][842]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.27-17.52.39:771][842]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.27-17.52.39:771][842]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.27-17.52.39:772][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.07.27-17.52.39:789][842]LogAudio: Display: Audio Device (ID: 25) registered with world 'LobbyMap'.
+[2024.07.27-17.52.39:789][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.52.39:789][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-17.52.39:789][842]LogAIModule: Creating AISystem for world LobbyMap
+[2024.07.27-17.52.39:790][842]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2024.07.27-17.52.39:790][842]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.27-17.52.39:798][842]LogWorld: Bringing World /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2024.07.27-19.52.39
+[2024.07.27-17.52.39:798][842]LogWorld: Bringing up level for play took: 0.007264
+[2024.07.27-17.52.39:801][842]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.07.27-17.52.39:802][842]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.27-17.52.39:803][842]vr.PixelDensity = "1"
+[2024.07.27-17.52.39:803][842]LogLoad: Took 0.085014 seconds to LoadMap(/Game/VRTemplate/Worlds/LobbyMap)
+[2024.07.27-17.52.43:387][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.27-17.52.43:387][ 96]LogWorld: BeginTearingDown for /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap
+[2024.07.27-17.52.43:459][ 96]LogSlate: Window 'LatenzProjekt Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.99.0)' being destroyed
+[2024.07.27-17.52.43:462][ 96]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.52.43:462][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.52.43:466][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.27-17.52.43:471][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.52.43:487][ 96]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.27-17.52.43:487][ 96]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.07.27-17.52.43:487][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.07.27-17.52.43:489][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.07.27-17.52.43:498][ 96]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.27-17.52.43:498][ 96]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.27-17.52.43:500][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.07.27-17.52.43:576][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.07.27-17.52.49:956][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.07.27-17.52.50:011][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.52.50:020][470]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Worlds/LobbyMap.LobbyMap
+[2024.07.27-17.52.50:020][470]Cmd: MAP LOAD FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Worlds/LobbyMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.27-17.52.50:020][470]LightingResults: New page: Lighting Build
+[2024.07.27-17.52.50:021][470]LoadErrors: New page: Loading map: LobbyMap.umap
+[2024.07.27-17.52.50:085][470]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.52.50:085][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.52.50:114][470]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.52.50:114][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.52.50:114][470]MapCheck: New page: Map Check
+[2024.07.27-17.52.50:114][470]LightingResults: New page: Lighting Build
+[2024.07.27-17.52.50:131][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.27-17.52.50:140][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.07.27-17.52.50:144][470]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.52.50:145][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.52.50:163][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.07.27-17.52.50:178][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.07.27-17.52.50:193][470]LogAudio: Display: Audio Device (ID: 1) registered with world 'LobbyMap'.
+[2024.07.27-17.52.50:193][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.52.50:193][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-17.52.50:193][470]LogAIModule: Creating AISystem for world LobbyMap
+[2024.07.27-17.52.50:369][470]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.27-17.52.50:387][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.07.27-17.52.50:392][470]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.27-17.52.50:392][470]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,115ms to complete.
+[2024.07.27-17.52.51:784][566]Cmd: DELETE
+[2024.07.27-17.52.51:784][566]Cmd: ACTOR DELETE
+[2024.07.27-17.52.51:787][566]LogEditorActor: Deleted Actor: SpawnUIElement_C
+[2024.07.27-17.52.51:803][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.07.27-17.52.51:806][566]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.07.27-17.52.53:963][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-17.52.54:040][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.07.27-17.52.54:061][729]LogSavePackage: Moving output files for package: /Game/VRTemplate/Worlds/LobbyMap
+[2024.07.27-17.52.54:061][729]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyMap42CB4BE24DAE2002A7D62FA23875BE45.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Worlds/LobbyMap.umap'
+[2024.07.27-17.52.54:068][729]LogFileHelpers: All files are already saved.
+[2024.07.27-17.52.54:068][729]LogFileHelpers: Saving map 'LobbyMap' took 0.063
+[2024.07.27-17.52.54:082][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 2.06 sec)
+[2024.07.27-17.52.54:086][729]AssetCheck: New page: Asset Save: LobbyMap
+[2024.07.27-17.52.54:086][729]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Worlds/LobbyMap.LobbyMap
+[2024.07.27-17.52.57:718][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.07.27-17.52.58:069][  7]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.52.58:071][  7]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Worlds/MainMenuMap.MainMenuMap
+[2024.07.27-17.52.58:072][  7]Cmd: MAP LOAD FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Worlds/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.27-17.52.58:072][  7]LightingResults: New page: Lighting Build
+[2024.07.27-17.52.58:072][  7]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2024.07.27-17.52.58:092][  7]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.52.58:092][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.52.58:092][  7]MapCheck: New page: Map Check
+[2024.07.27-17.52.58:092][  7]LightingResults: New page: Lighting Build
+[2024.07.27-17.52.58:108][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.27-17.52.58:113][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.07.27-17.52.58:114][  7]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.52.58:115][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.52.58:134][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.07.27-17.52.58:151][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.07.27-17.52.58:158][  7]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2024.07.27-17.52.58:158][  7]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.52.58:158][  7]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-17.52.58:158][  7]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.07.27-17.52.58:194][  7]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.27-17.52.58:213][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.07.27-17.52.58:218][  7]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.27-17.52.58:218][  7]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2024.07.27-17.53.00:037][169]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.27-17.53.00:043][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.27-17.53.00:043][169]PIE: New page: PIE session: MainMenuMap (27 Jul 2024, 21:53:00)
+[2024.07.27-17.53.00:043][169]LogPlayLevel: Creating play world package: /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap
+[2024.07.27-17.53.00:046][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002249s)
+[2024.07.27-17.53.00:046][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Worlds/MainMenuMap.MainMenuMap to /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap.MainMenuMap (0.002282s)
+[2024.07.27-17.53.00:061][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.07.27-17.53.00:064][169]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.53.00:064][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-17.53.00:064][169]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.07.27-17.53.00:064][169]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2024.07.27-17.53.00:064][169]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.07.27-17.53.00:064][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.27-17.53.00:064][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.27-17.53.00:065][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.27-17.53.00:065][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.27-17.53.00:065][169]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.27-17.53.00:065][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.27-17.53.00:065][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.27-17.53.00:065][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.27-17.53.00:065][169]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.27-17.53.00:065][169]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.27-17.53.00:065][169]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.27-17.53.00:068][169]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.27-17.53.00:087][169]LogAudioMixer: Display: Using Audio Hardware Device Logitech Speakers (High Definition Audio Device)
+[2024.07.27-17.53.00:087][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.27-17.53.00:087][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.27-17.53.00:087][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.27-17.53.00:088][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.07.27-17.53.00:088][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.07.27-17.53.00:090][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.07.27-17.53.00:090][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.07.27-17.53.00:090][169]LogInit: FAudioDevice initialized with ID 26.
+[2024.07.27-17.53.00:090][169]LogAudio: Display: Audio Device (ID: 26) registered with world 'MainMenuMap'.
+[2024.07.27-17.53.00:090][169]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.07.27-17.53.00:111][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.27-17.53.00:259][169]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.27-17.53.00:261][169]LogWorld: Bringing World /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2024.07.27-19.53.00
+[2024.07.27-17.53.00:261][169]LogWorld: Bringing up level for play took: 0.001689
+[2024.07.27-17.53.00:264][169]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.07.27-17.53.00:267][169]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.07.27-17.53.00:269][169]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.27-17.53.00:270][169]vr.PixelDensity = "1"
+[2024.07.27-17.53.00:277][169]PIE: Server logged in
+[2024.07.27-17.53.00:282][169]PIE: Play in editor total start time 0,239 seconds.
+[2024.07.27-17.53.00:303][169]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2024.07.27-17.53.00:351][169]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.07.27-17.53.00:395][170]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.07.27-17.53.04:842][492]LogNet: Browse: /Game/VRTemplate/Worlds/LobbyMap
+[2024.07.27-17.53.04:842][492]LogLoad: LoadMap: /Game/VRTemplate/Worlds/LobbyMap
+[2024.07.27-17.53.04:842][492]LogWorld: BeginTearingDown for /Game/VRTemplate/Worlds/UEDPIE_0_MainMenuMap
+[2024.07.27-17.53.04:843][492]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.53.04:843][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.53.04:891][492]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.27-17.53.04:892][492]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.27-17.53.04:892][492]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.27-17.53.04:893][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.07.27-17.53.04:908][492]LogAudio: Display: Audio Device (ID: 26) registered with world 'LobbyMap'.
+[2024.07.27-17.53.04:909][492]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.53.04:909][492]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-17.53.04:909][492]LogAIModule: Creating AISystem for world LobbyMap
+[2024.07.27-17.53.04:909][492]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2024.07.27-17.53.04:909][492]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.27-17.53.04:918][492]LogWorld: Bringing World /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2024.07.27-19.53.04
+[2024.07.27-17.53.04:918][492]LogWorld: Bringing up level for play took: 0.007376
+[2024.07.27-17.53.04:921][492]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.07.27-17.53.04:921][492]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.27-17.53.04:922][492]vr.PixelDensity = "1"
+[2024.07.27-17.53.04:922][492]LogLoad: Took 0.079691 seconds to LoadMap(/Game/VRTemplate/Worlds/LobbyMap)
+[2024.07.27-17.53.22:826][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.27-17.53.22:826][776]LogWorld: BeginTearingDown for /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap
+[2024.07.27-17.53.22:897][776]LogSlate: Window 'LatenzProjekt Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.99.0)' being destroyed
+[2024.07.27-17.53.22:900][776]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.53.22:900][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.53.22:904][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.27-17.53.22:909][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.53.22:925][776]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.07.27-17.53.22:925][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.07.27-17.53.22:927][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.07.27-17.53.22:935][776]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.27-17.53.22:935][776]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.27-17.53.22:937][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.07.27-17.53.22:996][777]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.07.27-17.54.00:931][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.07.27-17.54.00:981][896]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.54.00:988][896]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Worlds/LobbyMap.LobbyMap
+[2024.07.27-17.54.00:988][896]Cmd: MAP LOAD FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Worlds/LobbyMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.27-17.54.00:988][896]LightingResults: New page: Lighting Build
+[2024.07.27-17.54.00:988][896]LoadErrors: New page: Loading map: LobbyMap.umap
+[2024.07.27-17.54.01:011][896]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.54.01:011][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.54.01:011][896]MapCheck: New page: Map Check
+[2024.07.27-17.54.01:011][896]LightingResults: New page: Lighting Build
+[2024.07.27-17.54.01:026][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.27-17.54.01:031][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.07.27-17.54.01:033][896]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-17.54.01:034][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-17.54.01:056][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.07.27-17.54.01:073][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.07.27-17.54.01:086][896]LogAudio: Display: Audio Device (ID: 1) registered with world 'LobbyMap'.
+[2024.07.27-17.54.01:087][896]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-17.54.01:087][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-17.54.01:087][896]LogAIModule: Creating AISystem for world LobbyMap
+[2024.07.27-17.54.01:247][896]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.27-17.54.01:269][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.27-17.54.01:275][896]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.27-17.54.01:275][896]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
+[2024.07.27-17.58.41:412][133]BlueprintLog: New page: Compile MainMenu
+[2024.07.27-17.58.41:446][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.07.27-17.59.12:104][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-17.59.12:138][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/UI/MainMenu" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/MainMenu.uasset" SILENT=true
+[2024.07.27-17.59.12:144][373]LogSavePackage: Moving output files for package: /Game/VRTemplate/UI/MainMenu
+[2024.07.27-17.59.12:144][373]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/MainMenu46DDC1F842CD3EB9986B52BC9483A949.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/MainMenu.uasset'
+[2024.07.27-17.59.12:153][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 2.11 sec)
+[2024.07.27-17.59.12:154][373]AssetCheck: New page: Asset Save: MainMenu
+[2024.07.27-17.59.12:154][373]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/VRTemplate/UI/MainMenu.MainMenu
+[2024.07.27-17.59.22:251][204]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.27-17.59.22:268][204]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.27-17.59.22:284][205]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.27-17.59.25:067][435]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2024.07.27-17.59.25:068][435]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.27-18.04.22:336][974]LogSlate: Window 'Levels' being destroyed
+[2024.07.27-18.04.22:349][974]LogViewport: Scene viewport resized to 1521x1033, mode Windowed.
+[2024.07.27-18.04.23:629][ 75]LogViewport: Scene viewport resized to 1520x1033, mode Windowed.
+[2024.07.27-18.04.23:680][ 76]LogViewport: Scene viewport resized to 1598x1033, mode Windowed.
+[2024.07.27-18.04.23:727][ 77]LogViewport: Scene viewport resized to 1818x1033, mode Windowed.
+[2024.07.27-18.04.23:779][ 78]LogViewport: Scene viewport resized to 2071x1033, mode Windowed.
+[2024.07.27-18.04.23:827][ 79]LogViewport: Scene viewport resized to 2241x1033, mode Windowed.
+[2024.07.27-18.04.23:878][ 80]LogViewport: Scene viewport resized to 2337x1033, mode Windowed.
+[2024.07.27-18.04.23:930][ 81]LogViewport: Scene viewport resized to 2354x1033, mode Windowed.
+[2024.07.27-18.04.23:981][ 82]LogViewport: Scene viewport resized to 2390x1033, mode Windowed.
+[2024.07.27-18.04.24:033][ 83]LogViewport: Scene viewport resized to 2421x1033, mode Windowed.
+[2024.07.27-18.04.24:082][ 84]LogViewport: Scene viewport resized to 2445x1033, mode Windowed.
+[2024.07.27-18.04.24:136][ 85]LogViewport: Scene viewport resized to 2462x1033, mode Windowed.
+[2024.07.27-18.04.24:189][ 86]LogViewport: Scene viewport resized to 2486x1033, mode Windowed.
+[2024.07.27-18.04.24:243][ 87]LogViewport: Scene viewport resized to 2520x1033, mode Windowed.
+[2024.07.27-18.04.24:295][ 88]LogViewport: Scene viewport resized to 2554x1033, mode Windowed.
+[2024.07.27-18.04.24:347][ 89]LogViewport: Scene viewport resized to 2566x1033, mode Windowed.
+[2024.07.27-18.04.24:412][ 91]LogViewport: Scene viewport resized to 2569x1033, mode Windowed.
+[2024.07.27-18.04.24:465][ 92]LogViewport: Scene viewport resized to 2573x1033, mode Windowed.
+[2024.07.27-18.04.24:521][ 93]LogViewport: Scene viewport resized to 2581x1033, mode Windowed.
+[2024.07.27-18.04.24:574][ 94]LogViewport: Scene viewport resized to 2592x1033, mode Windowed.
+[2024.07.27-18.04.24:627][ 95]LogViewport: Scene viewport resized to 2596x1033, mode Windowed.
+[2024.07.27-18.04.24:680][ 96]LogViewport: Scene viewport resized to 2598x1033, mode Windowed.
+[2024.07.27-18.04.24:731][ 97]LogViewport: Scene viewport resized to 2600x1033, mode Windowed.
+[2024.07.27-18.04.24:787][ 98]LogViewport: Scene viewport resized to 2614x1033, mode Windowed.
+[2024.07.27-18.04.24:838][ 99]LogViewport: Scene viewport resized to 2624x1033, mode Windowed.
+[2024.07.27-18.04.24:893][100]LogViewport: Scene viewport resized to 2635x1033, mode Windowed.
+[2024.07.27-18.04.24:949][101]LogViewport: Scene viewport resized to 2636x1033, mode Windowed.
+[2024.07.27-18.04.25:002][102]LogViewport: Scene viewport resized to 2639x1033, mode Windowed.
+[2024.07.27-18.04.32:732][368]LogSlate: Window 'Override UI Layout "Standard_Layout"?' being destroyed
+[2024.07.27-18.04.32:758][368]Message dialog closed, result: Ok, title: Override UI Layout "Standard_Layout"?, text: Are you sure you want to permanently override the layout profile "Standard_Layout" with the current layout profile? This action cannot be undone.
+[2024.07.27-18.04.37:625][416]LogViewport: Scene viewport resized to 2638x1033, mode Windowed.
+[2024.07.27-18.04.37:691][417]LogViewport: Scene viewport resized to 2582x1033, mode Windowed.
+[2024.07.27-18.04.37:751][418]LogViewport: Scene viewport resized to 2485x1033, mode Windowed.
+[2024.07.27-18.04.37:813][419]LogViewport: Scene viewport resized to 2450x1033, mode Windowed.
+[2024.07.27-18.04.37:871][420]LogViewport: Scene viewport resized to 2448x1033, mode Windowed.
+[2024.07.27-18.04.43:394][801]LogViewport: Scene viewport resized to 2450x1033, mode Windowed.
+[2024.07.27-18.04.43:450][802]LogViewport: Scene viewport resized to 2466x1033, mode Windowed.
+[2024.07.27-18.04.43:503][803]LogViewport: Scene viewport resized to 2484x1033, mode Windowed.
+[2024.07.27-18.04.43:556][804]LogViewport: Scene viewport resized to 2501x1033, mode Windowed.
+[2024.07.27-18.04.43:608][805]LogViewport: Scene viewport resized to 2516x1033, mode Windowed.
+[2024.07.27-18.04.43:663][806]LogViewport: Scene viewport resized to 2524x1033, mode Windowed.
+[2024.07.27-18.04.43:720][807]LogViewport: Scene viewport resized to 2527x1033, mode Windowed.
+[2024.07.27-18.04.44:436][870]LogViewport: Scene viewport resized to 2525x1033, mode Windowed.
+[2024.07.27-18.04.44:487][871]LogViewport: Scene viewport resized to 2522x1033, mode Windowed.
+[2024.07.27-18.04.44:832][872]LogViewport: Scene viewport resized to 2517x1033, mode Windowed.
+[2024.07.27-18.04.44:899][873]LogViewport: Scene viewport resized to 2516x1033, mode Windowed.
+[2024.07.27-18.04.44:954][874]LogViewport: Scene viewport resized to 2513x1033, mode Windowed.
+[2024.07.27-18.05.03:483][376]LogSlate: Window 'New Level' being destroyed
+[2024.07.27-18.05.03:511][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.05.03:511][376]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-18.05.20:166][376]LogSlate: Window 'Save Level As' being destroyed
+[2024.07.27-18.05.20:242][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.07.27-18.05.20:246][376]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.05.20:246][376]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Lobby3C85248B43F91861BAD948B199638BA7.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.05.20:264][376]LogFileHelpers: Saving map 'Lobby' took 0.081
+[2024.07.27-18.05.20:264][376]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.05.20:264][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.05.20:356][376]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.05.20:356][376]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.06.25:642][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.27-18.06.25:646][601]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.06.25:646][601]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyC94AE9454FA98766379B5CB2195E9501.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.06.25:731][601]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.06.25:731][601]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.12.16:926][737]LogShaderCompilers: Display: ================================================
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: Total job queries 61, among them cache hits 22 (36.07%)
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: Tracking 39 distinct input hashes that result in 32 distinct outputs (82.05%)
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: RAM used: 1,31 MiB of 1,60 GiB budget. Usage: 0.08%
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: ================================================
+[2024.07.27-18.13.03:672][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.13.03:726][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.07.27-18.13.03:730][523]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.13.03:731][523]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyAB2D3D8343232FA41DC01597EFCD79B7.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.13.03:736][523]LogFileHelpers: Saving map 'Lobby' took 0.029
+[2024.07.27-18.13.03:745][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 2.18 sec)
+[2024.07.27-18.13.03:747][523]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.13.03:747][523]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.15.43:875][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:876][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:877][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:877][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:878][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:879][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:879][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:880][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:881][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:882][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:882][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:883][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:883][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:884][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:884][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:885][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:885][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:886][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:886][824]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2024.07.27-18.15.43:887][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:887][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:888][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:889][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:889][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:890][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:890][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:891][824]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.27-18.15.43:907][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.07.27-18.15.43:908][824]LogEditorActor: Deleted 27 Actors (0.034 secs)
+[2024.07.27-18.16.33:802][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.16.33:868][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.07.27-18.16.33:879][923]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.16.33:880][923]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Lobby00B9757540F8005D25128DB2F6F20C8A.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.16.33:885][923]LogFileHelpers: Saving map 'Lobby' took 0.038
+[2024.07.27-18.16.33:893][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 2.27 sec)
+[2024.07.27-18.16.33:894][923]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.16.33:894][923]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.17.03:370][320]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.07.27-18.17.03:383][320]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.07.27-18.17.03:395][320]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.07.27-18.17.03:414][321]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.07.27-18.17.05:627][507]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.07.27-18.17.05:633][507]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.07.27-18.17.14:639][243]LogContentBrowser: Attempting asset rename: NewBlueprint -> LobbyActor
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.LobbyActor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.SKEL_LobbyActor_C:UserConstructionScript' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.SKEL_LobbyActor_C' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.LobbyActor_C' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.LobbyActor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.LobbyActor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:664][243]LogMetaData: Removing '/Game/VRTemplate/Levels/LobbyActor.LobbyActor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VRTemplate/Levels/NewBlueprint.PackageMetaData'
+[2024.07.27-18.17.14:665][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.17.14:706][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.17.14:708][243]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.17.14:708][243]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActor95A0574342BB3ABBE43DE884A74B87EF.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.17.14:725][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.33 sec)
+[2024.07.27-18.17.14:748][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.07.27-18.17.14:764][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.07.27-18.17.14:776][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.07.27-18.17.14:779][243]AssetCheck: New page: Asset Save: LobbyActor
+[2024.07.27-18.17.14:779][243]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.17.20:693][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.17.20:694][382]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.17.20:694][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-18.17.20:865][382]LogViewport: Scene viewport resized to 2029x1101, mode Windowed.
+[2024.07.27-18.19.49:201][502]LogSlate: Took 0.004589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.07.27-18.23.15:396][321]BlueprintLog: New page: Compile LobbyActor
+[2024.07.27-18.23.15:426][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.07.27-18.23.22:079][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.23.22:116][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.23.22:120][103]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.23.22:120][103]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActor1B8F6BE547B061C91194B2A6D95B3840.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.23.22:130][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.38 sec)
+[2024.07.27-18.23.22:131][103]AssetCheck: New page: Asset Save: LobbyActor
+[2024.07.27-18.23.22:132][103]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.25.42:877][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.25.42:911][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.25.42:915][698]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.25.42:915][698]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActorECE161504DD5242B9ECCB5AA36780BAF.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.25.42:925][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 2.43 sec)
+[2024.07.27-18.25.42:926][698]AssetCheck: New page: Asset Save: LobbyActor
+[2024.07.27-18.25.42:926][698]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.27.43:491][312]BlueprintLog: New page: Compile LobbyActor
+[2024.07.27-18.27.43:525][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.27-18.28.07:867][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.07.27-18.28.07:882][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Worlds/LobbyMap_Auto1
+[2024.07.27-18.28.07:882][651]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyMap_Auto1784207EC4E5A889052BE82B5191CF4CA.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Autosaves/Game/VRTemplate/Worlds/LobbyMap_Auto1.umap'
+[2024.07.27-18.28.07:883][651]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Autosaves/Game/VRTemplate/Worlds/LobbyMap_Auto1.umap is in the /Temp path, will not scan.
+[2024.07.27-18.28.07:883][651]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/VRTemplate/Worlds/LobbyMap_Auto1 is in the /Temp path, will not scan.
+[2024.07.27-18.28.07:883][651]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/VRTemplate/Worlds/LobbyMap_Auto1 is in the /Temp path, will not scan.
+[2024.07.27-18.28.07:884][651]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Worlds/LobbyMap' took 0.032
+[2024.07.27-18.28.07:884][651]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2024.07.27-18.28.07:884][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Levels/LobbyActor] ([2] browsable assets)...
+[2024.07.27-18.28.07:884][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Levels/LobbyActor]
+[2024.07.27-18.28.07:889][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Levels/LobbyActor_Auto1
+[2024.07.27-18.28.07:889][651]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActor_Auto1D8F64089407472E52748078C4F0502A6.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Autosaves/Game/VRTemplate/Levels/LobbyActor_Auto1.uasset'
+[2024.07.27-18.28.07:889][651]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.07.27-18.28.41:829][461]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/LobbyActor.LobbyActor_C
+[2024.07.27-18.28.41:829][461]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/LobbyActor.LobbyActor_C
+[2024.07.27-18.28.41:830][461]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor as actor: LobbyActor_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.LobbyActor_C_0
+[2024.07.27-18.28.41:831][461]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor as actor: LobbyActor_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.LobbyActor_C_0
+[2024.07.27-18.28.42:551][508]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/LobbyActor.LobbyActor_C
+[2024.07.27-18.28.42:551][508]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/LobbyActor.LobbyActor_C
+[2024.07.27-18.28.42:554][508]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor as actor: LobbyActor_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.LobbyActor_C_1
+[2024.07.27-18.28.42:555][508]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor as actor: LobbyActor_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.LobbyActor_C_1
+[2024.07.27-18.29.56:895][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.29.56:931][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.29.56:936][244]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.29.56:936][244]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActor69DDC3BC486AC3D26267C2AF745308DB.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.29.56:945][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.48 sec)
+[2024.07.27-18.29.56:947][244]AssetCheck: New page: Asset Save: LobbyActor
+[2024.07.27-18.29.56:947][244]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.30.03:643][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.30.03:681][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.30.03:686][ 17]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.30.03:687][ 17]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActor87D198234FB4082E13A6918B66BD0A77.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.30.03:695][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 2.53 sec)
+[2024.07.27-18.30.03:697][ 17]AssetCheck: New page: Asset Save: LobbyActor
+[2024.07.27-18.30.03:697][ 17]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.30.05:466][227]BlueprintLog: New page: Compile LobbyActor
+[2024.07.27-18.30.05:503][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.07.27-18.32.31:873][473]LogContentBrowser: Deferred new asset file creation: LobbyActor1
+[2024.07.27-18.32.31:891][473]LogContentBrowser: Creating deferred item: LobbyActor1
+[2024.07.27-18.32.31:910][474]LogContentBrowser: Renaming the item being created (Deferred Item: LobbyActor1).
+[2024.07.27-18.32.34:579][676]LogContentBrowser: Attempting asset rename: LobbyActor1 -> Level1
+[2024.07.27-18.32.34:602][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.07.27-18.32.34:617][676]LogContentBrowser: End creating deferred item LobbyActor1
+[2024.07.27-18.32.49:439][754]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level1.Level1_C
+[2024.07.27-18.32.49:439][754]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level1.Level1_C
+[2024.07.27-18.32.49:441][754]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level1.Level1 as actor: Level1_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level1_C_0
+[2024.07.27-18.32.49:442][754]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level1.Level1 as actor: Level1_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level1_C_0
+[2024.07.27-18.32.50:031][786]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level1.Level1_C
+[2024.07.27-18.32.50:031][786]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level1.Level1_C
+[2024.07.27-18.32.50:033][786]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level1.Level1 as actor: Level1_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level1_C_1
+[2024.07.27-18.32.50:034][786]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level1.Level1 as actor: Level1_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level1_C_1
+[2024.07.27-18.32.58:465][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.32.58:527][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.07.27-18.32.58:538][414]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.32.58:538][414]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Lobby9E4E317B4FAD1810706FAC946A5A2F7D.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.32.58:543][414]LogFileHelpers: Saving map 'Lobby' took 0.035
+[2024.07.27-18.32.58:556][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 2.62 sec)
+[2024.07.27-18.32.58:558][414]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.32.58:558][414]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.33.34:211][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.07.27-18.33.35:389][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.27-18.33.36:273][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.07.27-18.33.37:780][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.33.37:818][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level1" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level1.uasset" SILENT=true
+[2024.07.27-18.33.37:823][469]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level1
+[2024.07.27-18.33.37:823][469]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level1AFEB1CE54413252965B51B9B5A2106C4.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level1.uasset'
+[2024.07.27-18.33.37:837][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 2.68 sec)
+[2024.07.27-18.33.37:837][469]AssetCheck: New page: Asset Save: Level1
+[2024.07.27-18.33.37:837][469]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level1.Level1
+[2024.07.27-18.33.47:188][155]LogDerivedDataCache: C:/Users/leene/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 941 files in 1655 folders with total size 31 MiB.
+[2024.07.27-18.34.40:183][175]LogContentBrowser: Attempting asset rename: LobbyActor -> Level0
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0_C' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.SKEL_Level0_C' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.Level0_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.SKEL_Level0_C:UserConstructionScript' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.SKEL_Level0_C:ReceiveTick' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.SKEL_Level0_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:211][175]LogMetaData: Removing '/Game/VRTemplate/Levels/Level0.SKEL_Level0_C:ReceiveBeginPlay' ref from Metadata '/Game/VRTemplate/Levels/LobbyActor.PackageMetaData'
+[2024.07.27-18.34.40:226][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.34.40:273][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level0" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level0.uasset" SILENT=true
+[2024.07.27-18.34.40:278][175]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level0
+[2024.07.27-18.34.40:278][175]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level0B191E7A94B14F654FB2AA4BFBC778181.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level0.uasset'
+[2024.07.27-18.34.40:284][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/LobbyActor" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset" SILENT=true
+[2024.07.27-18.34.40:285][175]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/LobbyActor
+[2024.07.27-18.34.40:285][175]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyActorF270657F44C98261EE2782A32DA91FF8.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/LobbyActor.uasset'
+[2024.07.27-18.34.40:302][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.76 sec)
+[2024.07.27-18.34.40:304][175]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.27-18.34.40:304][175]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level0.Level0
+[2024.07.27-18.34.40:304][175]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/VRTemplate/Levels/LobbyActor.LobbyActor_C
+[2024.07.27-18.34.40:304][175]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/VRTemplate/Levels/LobbyActor.Default__LobbyActor_C
+[2024.07.27-18.34.40:304][175]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/VRTemplate/Levels/LobbyActor.LobbyActor
+[2024.07.27-18.34.48:561][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.34.48:615][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.07.27-18.34.48:627][804]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.34.48:627][804]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Lobby3A78BAFD43BB7A848A87E4B4CDF4F8AD.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.34.48:632][804]LogFileHelpers: Saving map 'Lobby' took 0.034
+[2024.07.27-18.34.48:642][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.84 sec)
+[2024.07.27-18.34.48:643][804]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.34.48:643][804]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.34.54:405][250]Cmd: DELETE
+[2024.07.27-18.34.54:405][250]Cmd: ACTOR DELETE
+[2024.07.27-18.34.54:409][250]LogEditorActor: Deleted Actor: Level0_C
+[2024.07.27-18.34.54:422][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.27-18.34.54:424][250]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.07.27-18.34.55:345][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level0.Level0_C
+[2024.07.27-18.34.55:345][322]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level0.Level0_C
+[2024.07.27-18.34.55:346][322]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level0.Level0 as actor: Level0_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level0_C_2
+[2024.07.27-18.34.55:347][322]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level0.Level0 as actor: Level0_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level0_C_2
+[2024.07.27-18.34.55:549][330]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level0.Level0_C
+[2024.07.27-18.34.55:549][330]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Levels/Level0.Level0_C
+[2024.07.27-18.34.55:551][330]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level0.Level0 as actor: Level0_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level0_C_3
+[2024.07.27-18.34.55:551][330]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Levels/Level0.Level0 as actor: Level0_C /Game/VRTemplate/Levels/Lobby.Lobby:PersistentLevel.Level0_C_3
+[2024.07.27-18.35.32:390][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.35.32:452][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.07.27-18.35.32:463][138]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.35.32:463][138]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Lobby951FF950437DE945EA22C5B05749EA87.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.35.32:470][138]LogFileHelpers: Saving map 'Lobby' took 0.035
+[2024.07.27-18.35.32:479][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.93 sec)
+[2024.07.27-18.35.32:480][138]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.35.32:480][138]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.43.07:306][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.07.27-18.43.08:473][302]LogSlate: Window 'Save Content' being destroyed
+[2024.07.27-18.43.08:501][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.43.08:583][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.07.27-18.43.08:597][302]LogSavePackage: Moving output files for package: /Game/VRTemplate/Worlds/LobbyMap
+[2024.07.27-18.43.08:597][302]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyMap5B1F81084FC9DF241BB19BB8654789B3.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Worlds/LobbyMap.umap'
+[2024.07.27-18.43.08:603][302]LogFileHelpers: All files are already saved.
+[2024.07.27-18.43.08:603][302]LogFileHelpers: Saving map 'LobbyMap' took 0.057
+[2024.07.27-18.43.08:603][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level2" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level2.uasset" SILENT=true
+[2024.07.27-18.43.08:608][302]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level2
+[2024.07.27-18.43.08:608][302]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level270BC4E9F47EB52D97C232B83758D42FA.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level2.uasset'
+[2024.07.27-18.43.08:613][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level3" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level3.uasset" SILENT=true
+[2024.07.27-18.43.08:617][302]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level3
+[2024.07.27-18.43.08:617][302]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level3389FCC704D8238744AADE08C42EEE35E.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level3.uasset'
+[2024.07.27-18.43.08:621][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level4" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level4.uasset" SILENT=true
+[2024.07.27-18.43.08:625][302]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level4
+[2024.07.27-18.43.08:625][302]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level4649FA7514D6DE65FDFF7AC94F2756782.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level4.uasset'
+[2024.07.27-18.43.08:633][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/UI/MainMenu" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/MainMenu.uasset" SILENT=true
+[2024.07.27-18.43.08:640][302]LogSavePackage: Moving output files for package: /Game/VRTemplate/UI/MainMenu
+[2024.07.27-18.43.08:641][302]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/MainMenu027E773349D84DCE1A04238425258CC4.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/MainMenu.uasset'
+[2024.07.27-18.43.08:652][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 3.08 sec)
+[2024.07.27-18.43.08:697][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.43.08:700][302]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Worlds/MainMenuMap.MainMenuMap
+[2024.07.27-18.43.08:700][302]Cmd: MAP LOAD FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Worlds/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.27-18.43.08:700][302]LightingResults: New page: Lighting Build
+[2024.07.27-18.43.08:701][302]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2024.07.27-18.43.08:749][302]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.43.08:749][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.43.08:749][302]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.43.08:749][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.43.08:751][302]MapCheck: New page: Map Check
+[2024.07.27-18.43.08:751][302]LightingResults: New page: Lighting Build
+[2024.07.27-18.43.08:764][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.27-18.43.08:771][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.27-18.43.08:774][302]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.43.08:774][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.43.08:790][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.07.27-18.43.08:806][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.07.27-18.43.08:814][302]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2024.07.27-18.43.08:814][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.43.08:814][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-18.43.08:815][302]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.07.27-18.43.08:852][302]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.27-18.43.08:873][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.07.27-18.43.08:879][302]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.27-18.43.08:879][302]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,09ms to complete.
+[2024.07.27-18.43.08:895][302]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.27-18.43.08:895][302]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level2.Level2
+[2024.07.27-18.43.08:895][302]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level3.Level3
+[2024.07.27-18.43.08:895][302]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level4.Level4
+[2024.07.27-18.43.08:895][302]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/VRTemplate/UI/MainMenu.MainMenu
+[2024.07.27-18.43.08:915][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.07.27-18.43.38:161][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.07.27-18.43.38:212][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.43.38:218][ 54]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Worlds/LobbyMap.LobbyMap
+[2024.07.27-18.43.38:218][ 54]Cmd: MAP LOAD FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Worlds/LobbyMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.27-18.43.38:218][ 54]LightingResults: New page: Lighting Build
+[2024.07.27-18.43.38:218][ 54]LoadErrors: New page: Loading map: LobbyMap.umap
+[2024.07.27-18.43.38:239][ 54]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.43.38:239][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.43.38:240][ 54]MapCheck: New page: Map Check
+[2024.07.27-18.43.38:240][ 54]LightingResults: New page: Lighting Build
+[2024.07.27-18.43.38:254][ 54]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.27-18.43.38:257][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.07.27-18.43.38:259][ 54]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.43.38:259][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.43.38:275][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.07.27-18.43.38:289][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.07.27-18.43.38:301][ 54]LogAudio: Display: Audio Device (ID: 1) registered with world 'LobbyMap'.
+[2024.07.27-18.43.38:301][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.43.38:301][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-18.43.38:301][ 54]LogAIModule: Creating AISystem for world LobbyMap
+[2024.07.27-18.43.38:306][ 54]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/VRTemplate/Levels/Lobby) is flushing async loading
+[2024.07.27-18.43.38:306][ 54]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.07.27-18.43.38:468][ 54]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.27-18.43.38:490][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.07.27-18.43.38:495][ 54]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.27-18.43.38:495][ 54]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,137ms to complete.
+[2024.07.27-18.44.33:851][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.07.27-18.44.33:853][423]LogStall: Shutdown...
+[2024.07.27-18.44.33:860][423]LogStall: Shutdown complete.
+[2024.07.27-18.44.33:895][423]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.33:895][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.44.33:960][423]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.33:960][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.44.33:968][423]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.33:968][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.44.34:010][423]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.07.27-18.44.34:010][423]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.34:010][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.44.34:108][423]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.07.27-18.44.34:108][423]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.34:108][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.44.34:166][423]LogSlate: Window 'LatenzProjekt - Unreal Editor' being destroyed
+[2024.07.27-18.44.34:324][424]Cmd: QUIT_EDITOR
+[2024.07.27-18.44.34:324][424]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.07.27-18.44.34:327][424]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.07.27-18.44.34:327][424]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.07.27-18.44.34:327][424]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.07.27-18.44.34:327][424]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.34:328][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.44.34:328][424]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.34:328][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.44.34:335][424]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.07.27-18.44.34:950][424]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.07.27-18.44.34:950][424]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.07.27-18.44.34:950][424]LogAudio: Display: Audio Device unregistered from world 'LobbyMap'.
+[2024.07.27-18.44.34:950][424]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.07.27-18.44.34:950][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.07.27-18.44.34:953][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.07.27-18.44.34:963][424]LogAudio: Display: Audio Device Manager Shutdown
+[2024.07.27-18.44.34:964][424]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.07.27-18.44.34:971][424]LogExit: Preparing to exit.
+[2024.07.27-18.44.35:000][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.35:019][424]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.07.27-18.44.36:130][424]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.36:133][424]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.36:135][424]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.36:137][424]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.36:139][424]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.36:141][424]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.36:142][424]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.36:144][424]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.36:146][424]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.44.36:230][424]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.07.27-18.44.36:238][424]LogExit: Editor shut down
+[2024.07.27-18.44.36:240][424]LogExit: Transaction tracking system shut down
+[2024.07.27-18.44.36:391][424]LogExit: Object subsystem successfully closed.
+[2024.07.27-18.44.36:399][424]LogShaderCompilers: Display: ================================================
+[2024.07.27-18.44.36:399][424]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.27-18.44.36:399][424]LogShaderCompilers: Display: Total job queries 61, among them cache hits 22 (36.07%)
+[2024.07.27-18.44.36:399][424]LogShaderCompilers: Display: Tracking 39 distinct input hashes that result in 32 distinct outputs (82.05%)
+[2024.07.27-18.44.36:399][424]LogShaderCompilers: Display: RAM used: 1,31 MiB of 1,60 GiB budget. Usage: 0.08%
+[2024.07.27-18.44.36:399][424]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.27-18.44.36:399][424]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.07.27-18.44.36:399][424]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.07.27-18.44.36:399][424]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.07.27-18.44.36:399][424]LogShaderCompilers: Display: ================================================
+[2024.07.27-18.44.36:447][424]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.07.27-18.44.36:461][424]LogVirtualization: UE::Virtualization was shutdown
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module NewLevelDialog (1110)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (1106)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1104)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1102)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1100)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module Voice (1098)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1096)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1094)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module AddContentDialog (1092)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1091)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module SceneOutliner (1088)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module StatusBar (1086)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1084)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1082)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module StatsViewer (1080)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1078)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module AutomationWorker (1076)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module LiveLinkMultiUser (1074)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module IKRigEditor (1072)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1070)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1068)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module RigVMEditor (1066)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1064)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module OpenXRInput (1062)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1060)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1058)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1056)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1054)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1052)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1050)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1048)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module WebMMedia (1046)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1044)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1042)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1041)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1038)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1036)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1034)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (1032)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (1030)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1028)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (1026)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (1024)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module PlanarCut (1022)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module FractureEngine (1020)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module CharacterAI (1018)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1016)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1014)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1012)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1010)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module BspMode (1008)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module GeometryMode (1006)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1004)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module SmartSnapping (1002)
+[2024.07.27-18.44.36:488][424]LogModuleManager: Shutting down and abandoning module SessionServices (1000)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module MeshPaint (998)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (996)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module PlacementMode (995)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module FoliageEdit (992)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module LandscapeEditor (990)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (988)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module ActorPickerMode (986)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module ViewportSnapping (984)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module EditorWidgets (982)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module ViewportInteraction (980)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module ClothPainter (978)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (977)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module WidgetRegistration (974)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module LogVisualizer (972)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (970)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (968)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (967)
+[2024.07.27-18.44.36:489][424]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (965)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (962)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (960)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (958)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (956)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (954)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (952)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module AnimationSettings (950)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (948)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module CSVtoSVG (946)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (944)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module EditorConfig (942)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module EditorFramework (940)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (938)
+[2024.07.27-18.44.36:763][424]LogModuleManager: Shutting down and abandoning module TraceInsights (936)
+[2024.07.27-18.44.36:763][424]MemoryProfiler: Shutdown
+[2024.07.27-18.44.36:763][424]NetworkingProfiler: Shutdown
+[2024.07.27-18.44.36:763][424]LoadingProfiler: Shutdown
+[2024.07.27-18.44.36:763][424]TimingProfiler: Shutdown
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module TraceServices (935)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module TraceAnalysis (934)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (930)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (929)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module InputBindingEditor (926)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module MergeActors (924)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (922)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module LocalizationService (921)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module HardwareTargeting (918)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (916)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module UndoHistory (914)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module XmlParser (912)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module Blutility (910)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (908)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (907)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (904)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (903)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module SettingsEditor (900)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module ProjectLauncher (898)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module SessionFrontend (896)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module ProfilerClient (894)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module DeviceManager (892)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module AutomationController (890)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module AutomationWindow (888)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module Layers (886)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (884)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module DetailCustomizations (882)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module PackagesDialog (880)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (878)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module Persona (876)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (875)
+[2024.07.27-18.44.36:764][424]LogModuleManager: Shutting down and abandoning module Kismet (872)
+[2024.07.27-18.44.36:772][424]LogModuleManager: Shutting down and abandoning module KismetWidgets (871)
+[2024.07.27-18.44.36:772][424]LogModuleManager: Shutting down and abandoning module GraphEditor (868)
+[2024.07.27-18.44.36:772][424]LogModuleManager: Shutting down and abandoning module StructViewer (866)
+[2024.07.27-18.44.36:772][424]LogModuleManager: Shutting down and abandoning module ClassViewer (864)
+[2024.07.27-18.44.36:773][424]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (862)
+[2024.07.27-18.44.36:773][424]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (860)
+[2024.07.27-18.44.36:773][424]LogModuleManager: Shutting down and abandoning module SourceControlWindows (858)
+[2024.07.27-18.44.36:773][424]LogModuleManager: Shutting down and abandoning module OutputLog (856)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module Documentation (854)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (852)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (850)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module MovieScene (848)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (846)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (844)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (842)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module AudioMixer (841)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module AudioMixerCore (840)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module LauncherPlatform (836)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module AnalyticsET (834)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module PortalServices (832)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module PortalRpc (830)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module MessagingRpc (828)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module AIModule (826)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module GameplayDebugger (825)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module AITestSuite (823)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module NavigationSystem (821)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (818)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (816)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module TypedElementFramework (814)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (812)
+[2024.07.27-18.44.36:775][424]LogModuleManager: Shutting down and abandoning module ProfilerService (810)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (808)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (806)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (804)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (802)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (800)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module TakesCore (798)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module MegascansPlugin (796)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module Bridge (794)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (792)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (790)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (788)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (786)
+[2024.07.27-18.44.36:820][424]LogModuleManager: Shutting down and abandoning module CollectionManager (785)
+[2024.07.27-18.44.36:821][424]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (782)
+[2024.07.27-18.44.36:821][424]LogModuleManager: Shutting down and abandoning module LightMixer (780)
+[2024.07.27-18.44.36:821][424]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (778)
+[2024.07.27-18.44.36:821][424]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (776)
+[2024.07.27-18.44.36:821][424]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (774)
+[2024.07.27-18.44.36:821][424]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (772)
+[2024.07.27-18.44.36:821][424]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (770)
+[2024.07.27-18.44.36:821][424]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (768)
+[2024.07.27-18.44.36:821][424]LogModuleManager: Shutting down and abandoning module LiveLink (766)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module ControlRigSpline (764)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (762)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (760)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (758)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (754)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (752)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (750)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module InterchangeExport (748)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module InterchangeMessages (746)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module GLTFCore (744)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (742)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (740)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module InterchangeEditor (738)
+[2024.07.27-18.44.37:048][424]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (736)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module XRBaseEditor (734)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module XRBase (732)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module SynthesisEditor (730)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ResonanceAudio (728)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (726)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module OpenXRHandTrackingEditor (724)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module OpenXREditor (722)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (720)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (718)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ModelingOperators (716)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (714)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ModelingComponents (712)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryFramework (711)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (708)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module MeshModelingTools (706)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (704)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module InputDebugging (702)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GooglePAD (700)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (698)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (696)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (694)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module DynamicMesh (692)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (690)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (688)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module AppleImageUtils (686)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module AlembicImporter (684)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module AlembicLibrary (683)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryCache (682)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (681)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module AudioCapture (676)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (675)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module AssetTags (672)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (670)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module AndroidPermission (668)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module UObjectPlugin (666)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (664)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (662)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (660)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (658)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (656)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (654)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module PluginUtils (652)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GitSourceControl (650)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (648)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module DumpGPUServices (646)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (644)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (642)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (640)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module InterchangeTests (638)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module TakeSequencer (636)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module TakeMovieScene (634)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (632)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (630)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module MediaPlate (628)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module MediaCompositing (626)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ImgMedia (624)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (622)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (620)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (618)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (616)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (614)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (612)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (610)
+[2024.07.27-18.44.37:049][424]LogOpenImageDenoise: OIDN shutting down
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (608)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (606)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (604)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (602)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (600)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module MeshLODToolset (598)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (596)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module LocalizableMessage (594)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (592)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (590)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (588)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (586)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (584)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (583)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (581)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (578)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module DataflowNodes (576)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (574)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module DataflowEditor (572)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (570)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ChaosNiagara (568)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (566)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module FractureEditor (564)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (562)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module BackChannel (560)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (558)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module AutomationUtils (556)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (554)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module SequencerScripting (552)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module TemplateSequence (550)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (548)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (546)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module UVEditorTools (544)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module UVEditor (542)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (540)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (538)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module PluginBrowser (536)
+[2024.07.27-18.44.37:049][424]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (534)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (532)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (530)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (528)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module EditorDebugTools (526)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module CurveEditorTools (524)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (522)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (520)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module CryptoKeys (518)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ChangelistReview (516)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (514)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (512)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module Paper2DEditor (510)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module VariantManager (508)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (506)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (504)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (502)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module TraceUtilities (500)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (498)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (496)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module InputEditor (494)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (492)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module SQLiteCore (490)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ConcertServer (488)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ConcertClient (486)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ConcertTransport (485)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module Concert (482)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (480)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module IKRig (478)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (476)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ControlRig (474)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module Constraints (473)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module AnimationData (470)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module InterchangePipelines (468)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module InterchangeImport (466)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (464)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module InterchangeNodes (462)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (460)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module Niagara (458)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module NiagaraEditor (457)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module NiagaraCore (454)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module Synthesis (452)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module SoundFields (450)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (448)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module RigVM (446)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module SignificanceManager (444)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (442)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (440)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (438)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MetasoundEditor (436)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module AudioWidgets (435)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (434)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (430)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MetasoundEngine (428)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module WaveTable (427)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (425)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (422)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (420)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (418)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (416)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (414)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (412)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module CableComponent (410)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (408)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (407)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (404)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module SignalProcessing (403)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (400)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (398)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module AnimationSharing (396)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (394)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module GameplayCameras (392)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module StructUtils (390)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (388)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module PBIK (386)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module FullBodyIK (384)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (382)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module TakeRecorder (381)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ChaosCaching (378)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module LevelSequence (377)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module ActorSequence (374)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (372)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module FacialAnimation (370)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (368)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module DataValidation (366)
+[2024.07.27-18.44.37:050][424]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (364)
+[2024.07.27-18.44.37:051][424]LogModuleManager: Shutting down and abandoning module LevelEditor (363)
+[2024.07.27-18.44.37:054][424]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (362)
+[2024.07.27-18.44.37:054][424]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (360)
+[2024.07.27-18.44.37:055][424]LogModuleManager: Shutting down and abandoning module MainFrame (358)
+[2024.07.27-18.44.37:055][424]LogModuleManager: Shutting down and abandoning module HotReload (357)
+[2024.07.27-18.44.37:055][424]LogModuleManager: Shutting down and abandoning module ContentBrowser (353)
+[2024.07.27-18.44.37:055][424]LogModuleManager: Shutting down and abandoning module ToolMenus (352)
+[2024.07.27-18.44.37:055][424]LogModuleManager: Shutting down and abandoning module ContentBrowserData (350)
+[2024.07.27-18.44.37:055][424]LogModuleManager: Shutting down and abandoning module TreeMap (347)
+[2024.07.27-18.44.37:055][424]LogModuleManager: Shutting down and abandoning module Paper2D (344)
+[2024.07.27-18.44.37:055][424]LogModuleManager: Shutting down and abandoning module UdpMessaging (342)
+[2024.07.27-18.44.37:155][424]LogModuleManager: Shutting down and abandoning module TcpMessaging (340)
+[2024.07.27-18.44.37:256][424]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (338)
+[2024.07.27-18.44.37:256][424]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (336)
+[2024.07.27-18.44.37:256][424]LogModuleManager: Shutting down and abandoning module BlueprintGraph (335)
+[2024.07.27-18.44.37:256][424]LogModuleManager: Shutting down and abandoning module EnhancedInput (332)
+[2024.07.27-18.44.37:256][424]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (330)
+[2024.07.27-18.44.37:256][424]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (328)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module AndroidFileServer (326)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (324)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module PacketHandler (322)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (320)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module AnimGraph (318)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module TimeManagement (316)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module AnimationDataController (314)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (312)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (310)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module MediaAssets (308)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module Overlay (306)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module OverlayEditor (305)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module VREditor (302)
+[2024.07.27-18.44.37:260][424]LogModuleManager: Shutting down and abandoning module StringTableEditor (300)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (298)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (296)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module FunctionalTesting (294)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (292)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (291)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (288)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module UMG (286)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module UMGEditor (285)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module EditorStyle (280)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module SlateReflector (278)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module Slate (276)
+[2024.07.27-18.44.37:261][424]LogModuleManager: Shutting down and abandoning module SlateCore (274)
+[2024.07.27-18.44.37:263][424]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (272)
+[2024.07.27-18.44.37:263][424]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (270)
+[2024.07.27-18.44.37:263][424]LogModuleManager: Shutting down and abandoning module UnrealEd (268)
+[2024.07.27-18.44.37:263][424]LogModuleManager: Shutting down and abandoning module MRMesh (266)
+[2024.07.27-18.44.37:263][424]LogModuleManager: Shutting down and abandoning module Messaging (264)
+[2024.07.27-18.44.37:263][424]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (262)
+[2024.07.27-18.44.37:263][424]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (260)
+[2024.07.27-18.44.37:263][424]LogModuleManager: Shutting down and abandoning module LiveCoding (258)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module Networking (256)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module Core (254)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module AssetDefinition (252)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module MovieSceneTools (250)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module CurveEditor (249)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module Sequencer (247)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module KismetCompiler (244)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module MeshBuilder (242)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module NaniteBuilder (240)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module MeshUtilities (238)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (237)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (236)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (235)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (232)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (231)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (229)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (227)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (225)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module MaterialBaking (221)
+[2024.07.27-18.44.37:278][424]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (218)
+[2024.07.27-18.44.37:288][424]LogModuleManager: Shutting down and abandoning module TelemetryUtils (215)
+[2024.07.27-18.44.37:288][424]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (212)
+[2024.07.27-18.44.37:288][424]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (210)
+[2024.07.27-18.44.37:288][424]LogModuleManager: Shutting down and abandoning module DerivedDataCache (208)
+[2024.07.27-18.44.37:293][424]LogModuleManager: Shutting down and abandoning module TargetPlatform (206)
+[2024.07.27-18.44.37:293][424]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (205)
+[2024.07.27-18.44.37:293][424]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (203)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (201)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (199)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (197)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (195)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (193)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (191)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (189)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (187)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (185)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (183)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (181)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (179)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (177)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (175)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module TextureFormat (173)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (170)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (168)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (166)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (164)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (162)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (160)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module TurnkeySupport (157)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module InputCore (154)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module Settings (152)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (150)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (148)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (147)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module Chaos (144)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module GeometryCore (143)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (140)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (139)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module AVEncoder (138)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module D3D12RHI (134)
+[2024.07.27-18.44.37:294][424]LogModuleManager: Shutting down and abandoning module ACLPlugin (132)
+[2024.07.27-18.44.37:295][424]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (130)
+[2024.07.27-18.44.37:295][424]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (128)
+[2024.07.27-18.44.37:295][424]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (126)
+[2024.07.27-18.44.37:297][424]LogModuleManager: Shutting down and abandoning module XMPP (121)
+[2024.07.27-18.44.37:297][424]LogModuleManager: Shutting down and abandoning module WebSockets (120)
+[2024.07.27-18.44.37:314][424]LogModuleManager: Shutting down and abandoning module HTTP (117)
+[2024.07.27-18.44.37:314][424]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.07.27-18.44.37:314][424]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B615577FF-4BDC-8D21-71FC-4D827E608220%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=9d02d24b4c544fb7d3362385555dd4a1%7Cb9fcc5c4573444d381731b0c64dc5590%7Cb71aa84b-fa17-4adf-8be0-dd6b536ca176&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.07.27-18.44.37:335][424]LogModuleManager: Shutting down and abandoning module SSL (116)
+[2024.07.27-18.44.37:336][424]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (112)
+[2024.07.27-18.44.37:336][424]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (110)
+[2024.07.27-18.44.37:336][424]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (108)
+[2024.07.27-18.44.37:336][424]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (106)
+[2024.07.27-18.44.37:336][424]LogModuleManager: Shutting down and abandoning module NiagaraShader (104)
+[2024.07.27-18.44.37:336][424]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (102)
+[2024.07.27-18.44.37:336][424]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (100)
+[2024.07.27-18.44.37:336][424]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.07.27-18.44.37:336][424]LogModuleManager: Shutting down and abandoning module OpenXRAR (98)
+[2024.07.27-18.44.37:336][424]LogModuleManager: Shutting down and abandoning module AugmentedReality (97)
+[2024.07.27-18.44.37:336][424]LogModuleManager: Shutting down and abandoning module OpenXRHMD (94)
+[2024.07.27-18.44.37:342][424]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (92)
+[2024.07.27-18.44.37:342][424]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (90)
+[2024.07.27-18.44.37:342][424]LogModuleManager: Shutting down and abandoning module ChunkDownloader (88)
+[2024.07.27-18.44.37:342][424]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (86)
+[2024.07.27-18.44.37:342][424]RenderDocPlugin: plugin has been unloaded.
+[2024.07.27-18.44.37:342][424]LogModuleManager: Shutting down and abandoning module PixWinPlugin (84)
+[2024.07.27-18.44.37:342][424]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2024.07.27-18.44.37:342][424]LogModuleManager: Shutting down and abandoning module WmfMedia (80)
+[2024.07.27-18.44.37:346][424]LogModuleManager: Shutting down and abandoning module Media (79)
+[2024.07.27-18.44.37:348][424]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (76)
+[2024.07.27-18.44.37:348][424]LogModuleManager: Shutting down and abandoning module ChaosCloth (74)
+[2024.07.27-18.44.37:348][424]LogModuleManager: Shutting down and abandoning module VariantManagerContent (72)
+[2024.07.27-18.44.37:348][424]LogModuleManager: Shutting down and abandoning module GLTFExporter (70)
+[2024.07.27-18.44.37:348][424]LogModuleManager: Shutting down and abandoning module DatasmithContent (68)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.07.27-18.44.37:349][424]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.07.27-18.44.37:351][424]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.07.27-18.44.37:351][424]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.07.27-18.44.37:351][424]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.07.27-18.44.37:351][424]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.07.27-18.44.37:351][424]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.07.27-18.44.37:351][424]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.07.27-18.44.37:351][424]LogPakFile: Destroying PakPlatformFile
+[2024.07.27-18.44.37:351][424]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.07.27-18.44.37:351][424]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.07.27-18.44.37:351][424]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.07.27-18.44.37:351][424]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.07.27-18.44.37:351][424]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.07.27-18.44.37:439][424]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.07.27-18.44.37:487][424]LogExit: Exiting.
+[2024.07.27-18.44.37:531][424]Log file closed, 07/27/24 20:44:37
 >>>>>>> Stashed changes
