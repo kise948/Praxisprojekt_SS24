@@ -3751,6 +3751,7 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.07.27-16.51.45:298][475]LogFileHelpers: Auto-saving content packages took 0.016
 [2024.07.27-17.20.09:022][901]LogDerivedDataCache: C:/Users/Patri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.034 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1945 files in 2757 folders with total size 105 MiB.
 [2024.07.27-18.20.09:039][653]LogDerivedDataCache: C:/Users/Patri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.050 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1945 files in 2757 folders with total size 105 MiB.
+<<<<<<< Updated upstream
 [2024.07.27-18.35.59:688][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
 [2024.07.27-18.35.59:736][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2024.07.27-18.35.59:752][705]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
@@ -4427,3 +4428,5 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.07.27-18.36.07:497][ 26]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.07.27-18.36.07:551][ 26]LogExit: Exiting.
 [2024.07.27-18.36.07:575][ 26]Log file closed, 07/27/24 20:36:07
+=======
+>>>>>>> Stashed changes
