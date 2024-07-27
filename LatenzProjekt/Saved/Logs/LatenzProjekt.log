@@ -3876,3 +3876,100 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.07.27-17.54.01:269][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2024.07.27-17.54.01:275][896]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.07.27-17.54.01:275][896]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
+[2024.07.27-17.58.41:412][133]BlueprintLog: New page: Compile MainMenu
+[2024.07.27-17.58.41:446][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.07.27-17.59.12:104][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-17.59.12:138][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/UI/MainMenu" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/MainMenu.uasset" SILENT=true
+[2024.07.27-17.59.12:144][373]LogSavePackage: Moving output files for package: /Game/VRTemplate/UI/MainMenu
+[2024.07.27-17.59.12:144][373]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/MainMenu46DDC1F842CD3EB9986B52BC9483A949.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/MainMenu.uasset'
+[2024.07.27-17.59.12:153][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 2.11 sec)
+[2024.07.27-17.59.12:154][373]AssetCheck: New page: Asset Save: MainMenu
+[2024.07.27-17.59.12:154][373]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/VRTemplate/UI/MainMenu.MainMenu
+[2024.07.27-17.59.22:251][204]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.27-17.59.22:268][204]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.27-17.59.22:284][205]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.27-17.59.25:067][435]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2024.07.27-17.59.25:068][435]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.27-18.04.22:336][974]LogSlate: Window 'Levels' being destroyed
+[2024.07.27-18.04.22:349][974]LogViewport: Scene viewport resized to 1521x1033, mode Windowed.
+[2024.07.27-18.04.23:629][ 75]LogViewport: Scene viewport resized to 1520x1033, mode Windowed.
+[2024.07.27-18.04.23:680][ 76]LogViewport: Scene viewport resized to 1598x1033, mode Windowed.
+[2024.07.27-18.04.23:727][ 77]LogViewport: Scene viewport resized to 1818x1033, mode Windowed.
+[2024.07.27-18.04.23:779][ 78]LogViewport: Scene viewport resized to 2071x1033, mode Windowed.
+[2024.07.27-18.04.23:827][ 79]LogViewport: Scene viewport resized to 2241x1033, mode Windowed.
+[2024.07.27-18.04.23:878][ 80]LogViewport: Scene viewport resized to 2337x1033, mode Windowed.
+[2024.07.27-18.04.23:930][ 81]LogViewport: Scene viewport resized to 2354x1033, mode Windowed.
+[2024.07.27-18.04.23:981][ 82]LogViewport: Scene viewport resized to 2390x1033, mode Windowed.
+[2024.07.27-18.04.24:033][ 83]LogViewport: Scene viewport resized to 2421x1033, mode Windowed.
+[2024.07.27-18.04.24:082][ 84]LogViewport: Scene viewport resized to 2445x1033, mode Windowed.
+[2024.07.27-18.04.24:136][ 85]LogViewport: Scene viewport resized to 2462x1033, mode Windowed.
+[2024.07.27-18.04.24:189][ 86]LogViewport: Scene viewport resized to 2486x1033, mode Windowed.
+[2024.07.27-18.04.24:243][ 87]LogViewport: Scene viewport resized to 2520x1033, mode Windowed.
+[2024.07.27-18.04.24:295][ 88]LogViewport: Scene viewport resized to 2554x1033, mode Windowed.
+[2024.07.27-18.04.24:347][ 89]LogViewport: Scene viewport resized to 2566x1033, mode Windowed.
+[2024.07.27-18.04.24:412][ 91]LogViewport: Scene viewport resized to 2569x1033, mode Windowed.
+[2024.07.27-18.04.24:465][ 92]LogViewport: Scene viewport resized to 2573x1033, mode Windowed.
+[2024.07.27-18.04.24:521][ 93]LogViewport: Scene viewport resized to 2581x1033, mode Windowed.
+[2024.07.27-18.04.24:574][ 94]LogViewport: Scene viewport resized to 2592x1033, mode Windowed.
+[2024.07.27-18.04.24:627][ 95]LogViewport: Scene viewport resized to 2596x1033, mode Windowed.
+[2024.07.27-18.04.24:680][ 96]LogViewport: Scene viewport resized to 2598x1033, mode Windowed.
+[2024.07.27-18.04.24:731][ 97]LogViewport: Scene viewport resized to 2600x1033, mode Windowed.
+[2024.07.27-18.04.24:787][ 98]LogViewport: Scene viewport resized to 2614x1033, mode Windowed.
+[2024.07.27-18.04.24:838][ 99]LogViewport: Scene viewport resized to 2624x1033, mode Windowed.
+[2024.07.27-18.04.24:893][100]LogViewport: Scene viewport resized to 2635x1033, mode Windowed.
+[2024.07.27-18.04.24:949][101]LogViewport: Scene viewport resized to 2636x1033, mode Windowed.
+[2024.07.27-18.04.25:002][102]LogViewport: Scene viewport resized to 2639x1033, mode Windowed.
+[2024.07.27-18.04.32:732][368]LogSlate: Window 'Override UI Layout "Standard_Layout"?' being destroyed
+[2024.07.27-18.04.32:758][368]Message dialog closed, result: Ok, title: Override UI Layout "Standard_Layout"?, text: Are you sure you want to permanently override the layout profile "Standard_Layout" with the current layout profile? This action cannot be undone.
+[2024.07.27-18.04.37:625][416]LogViewport: Scene viewport resized to 2638x1033, mode Windowed.
+[2024.07.27-18.04.37:691][417]LogViewport: Scene viewport resized to 2582x1033, mode Windowed.
+[2024.07.27-18.04.37:751][418]LogViewport: Scene viewport resized to 2485x1033, mode Windowed.
+[2024.07.27-18.04.37:813][419]LogViewport: Scene viewport resized to 2450x1033, mode Windowed.
+[2024.07.27-18.04.37:871][420]LogViewport: Scene viewport resized to 2448x1033, mode Windowed.
+[2024.07.27-18.04.43:394][801]LogViewport: Scene viewport resized to 2450x1033, mode Windowed.
+[2024.07.27-18.04.43:450][802]LogViewport: Scene viewport resized to 2466x1033, mode Windowed.
+[2024.07.27-18.04.43:503][803]LogViewport: Scene viewport resized to 2484x1033, mode Windowed.
+[2024.07.27-18.04.43:556][804]LogViewport: Scene viewport resized to 2501x1033, mode Windowed.
+[2024.07.27-18.04.43:608][805]LogViewport: Scene viewport resized to 2516x1033, mode Windowed.
+[2024.07.27-18.04.43:663][806]LogViewport: Scene viewport resized to 2524x1033, mode Windowed.
+[2024.07.27-18.04.43:720][807]LogViewport: Scene viewport resized to 2527x1033, mode Windowed.
+[2024.07.27-18.04.44:436][870]LogViewport: Scene viewport resized to 2525x1033, mode Windowed.
+[2024.07.27-18.04.44:487][871]LogViewport: Scene viewport resized to 2522x1033, mode Windowed.
+[2024.07.27-18.04.44:832][872]LogViewport: Scene viewport resized to 2517x1033, mode Windowed.
+[2024.07.27-18.04.44:899][873]LogViewport: Scene viewport resized to 2516x1033, mode Windowed.
+[2024.07.27-18.04.44:954][874]LogViewport: Scene viewport resized to 2513x1033, mode Windowed.
+[2024.07.27-18.05.03:483][376]LogSlate: Window 'New Level' being destroyed
+[2024.07.27-18.05.03:511][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.27-18.05.03:511][376]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.27-18.05.20:166][376]LogSlate: Window 'Save Level As' being destroyed
+[2024.07.27-18.05.20:242][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.07.27-18.05.20:246][376]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.05.20:246][376]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Lobby3C85248B43F91861BAD948B199638BA7.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.05.20:264][376]LogFileHelpers: Saving map 'Lobby' took 0.081
+[2024.07.27-18.05.20:264][376]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.07.27-18.05.20:264][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.27-18.05.20:356][376]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.05.20:356][376]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.06.25:642][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.27-18.06.25:646][601]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.06.25:646][601]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyC94AE9454FA98766379B5CB2195E9501.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.06.25:731][601]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.06.25:731][601]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
+[2024.07.27-18.12.16:926][737]LogShaderCompilers: Display: ================================================
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: Total job queries 61, among them cache hits 22 (36.07%)
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: Tracking 39 distinct input hashes that result in 32 distinct outputs (82.05%)
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: RAM used: 1,31 MiB of 1,60 GiB budget. Usage: 0.08%
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.07.27-18.12.16:927][737]LogShaderCompilers: Display: ================================================
+[2024.07.27-18.13.03:672][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.27-18.13.03:726][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.07.27-18.13.03:730][523]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Lobby
+[2024.07.27-18.13.03:731][523]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/LobbyAB2D3D8343232FA41DC01597EFCD79B7.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Lobby.umap'
+[2024.07.27-18.13.03:736][523]LogFileHelpers: Saving map 'Lobby' took 0.029
+[2024.07.27-18.13.03:745][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 2.18 sec)
+[2024.07.27-18.13.03:747][523]AssetCheck: New page: Asset Save: Lobby
+[2024.07.27-18.13.03:747][523]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
