@@ -1338,3 +1338,4 @@ The following settings have been applied:
 [2024.07.27-18.51.46:203][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2024.07.27-18.51.46:209][588]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.07.27-18.51.46:209][588]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,132ms to complete.
+[2024.07.27-18.53.33:175][538]LogDerivedDataCache: C:/Users/leene/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.112 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 941 files in 1655 folders with total size 31 MiB.
