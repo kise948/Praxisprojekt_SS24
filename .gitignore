@@ -79,3 +79,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 LatenzProjekt/Saved/Logs/LatenzProjekt.log
 *.log
+LatenzProjekt/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+*.log
