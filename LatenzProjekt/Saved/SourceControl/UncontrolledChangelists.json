@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Maps/_GENERATED/Patricia/CubeGridToolOutput_7BBEFB22.uasset",
+				"C:/Praxisprojekt_SS24/LatenzProjekt/Content/StarterContent/Materials/Goal_Material.uasset",
+				"C:/Praxisprojekt_SS24/LatenzProjekt/Content/StarterContent/Particles/P_Sparks1.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uasset",
 				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/StarterContent/Props/MaterialSphere.uasset",
 				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Input/B_InputModifier_XAxisPositiveOnly.uasset",
