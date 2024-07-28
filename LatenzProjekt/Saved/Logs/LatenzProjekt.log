@@ -3335,3 +3335,219 @@ B_PressureSwitch10
 [2024.07.28-20.25.23:761][838]AssetCheck: New page: Asset Save: multiple assets
 [2024.07.28-20.25.23:761][838]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Lobby.Lobby
 [2024.07.28-20.25.23:761][838]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Levels/Level1Complete.Level1Complete
+[2024.07.28-20.28.09:084][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.07.28-20.28.09:084][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.28-20.28.09:084][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.28-20.31.17:401][689]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.07.28-20.31.17:401][689]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.07.28-20.31.57:094][400]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.07.28-20.35.04:067][135]BlueprintLog: New page: Compile VRPawn
+[2024.07.28-20.35.04:185][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.07.28-20.35.22:208][934]LogDerivedDataCache: C:/Users/leene/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.090 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5296 files in 6238 folders with total size 133 MiB.
+[2024.07.28-20.35.27:397][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-20.35.27:496][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.07.28-20.35.27:590][383]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.07.28-20.35.27:591][383]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/VRPawn45A9C368417630B1A051C5B816604DA8.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.07.28-20.35.27:603][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 5.52 sec)
+[2024.07.28-20.35.27:608][383]AssetCheck: New page: Asset Save: VRPawn
+[2024.07.28-20.35.27:608][383]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.07.28-20.35.27:870][398]BlueprintLog: New page: Compile VRPawn
+[2024.07.28-20.35.27:979][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.07.28-20.35.33:354][770]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.28-20.35.33:362][770]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.28-20.35.33:362][770]LogPlayLevel: [PlayLevel] Compiling LobbyMap before play...
+[2024.07.28-20.35.33:393][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.07.28-20.35.33:397][770]LogPlayLevel: PlayLevel: Blueprint regeneration took 35 ms (1 blueprints)
+[2024.07.28-20.35.33:398][770]PIE: New page: PIE session: LobbyMap (29 Jul 2024, 00:35:33)
+[2024.07.28-20.35.33:398][770]LogPlayLevel: Creating play world package: /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap
+[2024.07.28-20.35.33:403][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005759s)
+[2024.07.28-20.35.33:403][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Worlds/LobbyMap.LobbyMap to /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap.LobbyMap (0.005794s)
+[2024.07.28-20.35.33:418][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.07.28-20.35.33:419][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.28-20.35.33:419][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.28-20.35.33:420][770]LogAIModule: Creating AISystem for world LobbyMap
+[2024.07.28-20.35.33:420][770]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2024.07.28-20.35.33:420][770]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.07.28-20.35.33:420][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.28-20.35.33:420][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.28-20.35.33:420][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.28-20.35.33:420][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.28-20.35.33:420][770]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.28-20.35.33:420][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.28-20.35.33:420][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.28-20.35.33:420][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.28-20.35.33:421][770]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.28-20.35.33:421][770]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.28-20.35.33:421][770]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.28-20.35.33:424][770]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.28-20.35.33:443][770]LogAudioMixer: Display: Using Audio Hardware Device Logitech Speakers (High Definition Audio Device)
+[2024.07.28-20.35.33:443][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.28-20.35.33:443][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.28-20.35.33:443][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.28-20.35.33:444][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.07.28-20.35.33:444][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.07.28-20.35.33:446][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.07.28-20.35.33:446][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.07.28-20.35.33:446][770]LogInit: FAudioDevice initialized with ID 9.
+[2024.07.28-20.35.33:446][770]LogAudio: Display: Audio Device (ID: 9) registered with world 'LobbyMap'.
+[2024.07.28-20.35.33:446][770]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.28-20.35.33:469][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.28-20.35.33:610][770]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.28-20.35.33:616][770]LogWorld: Bringing World /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2024.07.28-22.35.33
+[2024.07.28-20.35.33:616][770]LogWorld: Bringing up level for play took: 0.002201
+[2024.07.28-20.35.33:619][770]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.07.28-20.35.33:622][770]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.07.28-20.35.33:625][770]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.28-20.35.33:626][770]vr.PixelDensity = "1"
+[2024.07.28-20.35.33:660][770]PIE: Server logged in
+[2024.07.28-20.35.33:672][770]PIE: Play in editor total start time 0,31 seconds.
+[2024.07.28-20.35.33:693][770]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2024.07.28-20.35.33:765][770]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.07.28-20.35.36:935][  9]LogLevel: Warning: Failed to find streaming level object associated with '/Game/VRTemplate/Worlds/LobbyMap'
+[2024.07.28-20.35.49:833][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.28-20.35.49:833][936]LogWorld: BeginTearingDown for /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap
+[2024.07.28-20.35.49:872][936]LogSlate: Window 'LatenzProjekt Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.99.0)' being destroyed
+[2024.07.28-20.35.49:876][936]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.28-20.35.49:877][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.28-20.35.49:881][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.28-20.35.49:886][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.28-20.35.49:903][936]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.28-20.35.49:903][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.28-20.35.49:905][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.28-20.35.49:911][936]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.28-20.35.49:911][936]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.28-20.35.49:913][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.07.28-20.35.49:986][937]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.07.28-20.35.50:062][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.07.28-20.37.20:813][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-20.37.20:907][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level2" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level2.uasset" SILENT=true
+[2024.07.28-20.37.20:914][817]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level2
+[2024.07.28-20.37.20:914][817]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level2C372BAD641F76C03D583F7A2CC2F6747.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level2.uasset'
+[2024.07.28-20.37.20:926][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 5.63 sec)
+[2024.07.28-20.37.20:929][817]AssetCheck: New page: Asset Save: Level2
+[2024.07.28-20.37.20:929][817]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level2.Level2
+[2024.07.28-20.37.21:854][926]BlueprintLog: New page: Compile Level2
+[2024.07.28-20.37.21:884][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.07.28-20.37.23:342][ 69]LogViewport: Scene viewport resized to 2029x1101, mode Windowed.
+[2024.07.28-20.37.30:694][840]LogViewport: Scene viewport resized to 2029x1101, mode Windowed.
+[2024.07.28-20.37.36:003][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-20.37.36:051][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level3" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level3.uasset" SILENT=true
+[2024.07.28-20.37.36:058][442]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level3
+[2024.07.28-20.37.36:058][442]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level384456CFF44D25D766E5FCABC0784E86E.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level3.uasset'
+[2024.07.28-20.37.36:067][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 5.70 sec)
+[2024.07.28-20.37.36:070][442]AssetCheck: New page: Asset Save: Level3
+[2024.07.28-20.37.36:070][442]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level3.Level3
+[2024.07.28-20.37.44:326][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-20.37.44:422][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/Level4" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level4.uasset" SILENT=true
+[2024.07.28-20.37.44:430][372]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/Level4
+[2024.07.28-20.37.44:431][372]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/Level433ECFFCD4A86923E980D2FAA81967922.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level4.uasset'
+[2024.07.28-20.37.44:441][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 5.81 sec)
+[2024.07.28-20.37.44:442][372]AssetCheck: New page: Asset Save: Level4
+[2024.07.28-20.37.44:442][372]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/Level4.Level4
+[2024.07.28-20.37.47:735][651]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Levels/StartLevel1.StartLevel1
+[2024.07.28-20.37.47:735][651]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.28-20.37.47:736][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.28-20.37.49:598][792]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Levels/StartLevel2.StartLevel2
+[2024.07.28-20.37.49:599][792]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.28-20.37.49:599][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.28-20.37.51:357][916]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Levels/StartLevel3.StartLevel3
+[2024.07.28-20.37.51:357][916]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.28-20.37.51:357][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.28-20.37.53:436][ 70]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Levels/StartLevel4.StartLevel4
+[2024.07.28-20.37.53:437][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.28-20.37.53:437][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.28-20.38.21:891][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-20.38.21:986][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/StartLevel4" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel4.uasset" SILENT=true
+[2024.07.28-20.38.21:995][156]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/StartLevel4
+[2024.07.28-20.38.21:996][156]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/StartLevel41CF094E84CD69ED857916B93038B4A6C.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel4.uasset'
+[2024.07.28-20.38.22:009][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 5.93 sec)
+[2024.07.28-20.38.22:011][156]AssetCheck: New page: Asset Save: StartLevel4
+[2024.07.28-20.38.22:011][156]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/StartLevel4.StartLevel4
+[2024.07.28-20.38.22:729][239]BlueprintLog: New page: Compile StartLevel4
+[2024.07.28-20.38.22:766][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.28-20.38.26:385][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.07.28-20.38.26:390][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-20.38.26:492][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/StartLevel1" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel1.uasset" SILENT=true
+[2024.07.28-20.38.26:501][494]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/StartLevel1
+[2024.07.28-20.38.26:502][494]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/StartLevel157670B8346D434D87FCCF3B2DBC907A4.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel1.uasset'
+[2024.07.28-20.38.26:508][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/StartLevel2" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel2.uasset" SILENT=true
+[2024.07.28-20.38.26:516][494]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/StartLevel2
+[2024.07.28-20.38.26:516][494]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/StartLevel27EED99214E07B4714204E8BE84EDB9C5.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel2.uasset'
+[2024.07.28-20.38.26:523][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Levels/StartLevel3" FILE="../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel3.uasset" SILENT=true
+[2024.07.28-20.38.26:532][494]LogSavePackage: Moving output files for package: /Game/VRTemplate/Levels/StartLevel3
+[2024.07.28-20.38.26:533][494]LogSavePackage: Moving '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Saved/StartLevel3D08F23584C596BDC2EA49999AC74605D.tmp' to '../../../../../../Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel3.uasset'
+[2024.07.28-20.38.26:541][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 6.08 sec)
+[2024.07.28-20.38.26:545][494]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.28-20.38.26:545][494]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/StartLevel1.StartLevel1
+[2024.07.28-20.38.26:545][494]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/StartLevel2.StartLevel2
+[2024.07.28-20.38.26:545][494]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Levels/StartLevel3.StartLevel3
+[2024.07.28-20.38.28:405][614]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.07.28-20.38.28:414][614]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.28-20.38.28:415][614]LogPlayLevel: [PlayLevel] Compiling Level4 before play...
+[2024.07.28-20.38.28:446][614]LogPlayLevel: [PlayLevel] Compiling StartLevel1 before play...
+[2024.07.28-20.38.28:480][614]LogPlayLevel: [PlayLevel] Compiling StartLevel2 before play...
+[2024.07.28-20.38.28:514][614]LogPlayLevel: [PlayLevel] Compiling StartLevel3 before play...
+[2024.07.28-20.38.28:547][614]LogPlayLevel: [PlayLevel] Compiling Level3 before play...
+[2024.07.28-20.38.28:593][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.07.28-20.38.28:595][614]LogPlayLevel: PlayLevel: Blueprint regeneration took 180 ms (5 blueprints)
+[2024.07.28-20.38.28:595][614]PIE: New page: PIE session: LobbyMap (29 Jul 2024, 00:38:28)
+[2024.07.28-20.38.28:595][614]LogPlayLevel: Creating play world package: /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap
+[2024.07.28-20.38.28:601][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005973s)
+[2024.07.28-20.38.28:601][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Worlds/LobbyMap.LobbyMap to /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap.LobbyMap (0.006005s)
+[2024.07.28-20.38.28:617][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.07.28-20.38.28:618][614]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.28-20.38.28:618][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.28-20.38.28:618][614]LogAIModule: Creating AISystem for world LobbyMap
+[2024.07.28-20.38.28:618][614]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2024.07.28-20.38.28:618][614]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.07.28-20.38.28:618][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.28-20.38.28:618][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.28-20.38.28:618][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.28-20.38.28:618][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.28-20.38.28:618][614]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.28-20.38.28:618][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.28-20.38.28:618][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.28-20.38.28:618][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.28-20.38.28:619][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.28-20.38.28:619][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.28-20.38.28:619][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.28-20.38.28:621][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.28-20.38.28:642][614]LogAudioMixer: Display: Using Audio Hardware Device Logitech Speakers (High Definition Audio Device)
+[2024.07.28-20.38.28:642][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.28-20.38.28:642][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.28-20.38.28:642][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.28-20.38.28:642][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.07.28-20.38.28:642][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.07.28-20.38.28:645][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.07.28-20.38.28:645][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.07.28-20.38.28:645][614]LogInit: FAudioDevice initialized with ID 10.
+[2024.07.28-20.38.28:645][614]LogAudio: Display: Audio Device (ID: 10) registered with world 'LobbyMap'.
+[2024.07.28-20.38.28:645][614]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.28-20.38.28:664][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.28-20.38.28:807][614]LogLoad: Game class is 'VRGameMode_C'
+[2024.07.28-20.38.28:814][614]LogWorld: Bringing World /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2024.07.28-22.38.28
+[2024.07.28-20.38.28:814][614]LogWorld: Bringing up level for play took: 0.002381
+[2024.07.28-20.38.28:816][614]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.07.28-20.38.28:819][614]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.07.28-20.38.28:822][614]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.07.28-20.38.28:823][614]vr.PixelDensity = "1"
+[2024.07.28-20.38.28:831][614]PIE: Server logged in
+[2024.07.28-20.38.28:837][614]PIE: Play in editor total start time 0,423 seconds.
+[2024.07.28-20.38.28:856][614]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2024.07.28-20.38.28:895][614]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.07.28-20.38.32:737][891]LogLevel: Warning: Failed to find streaming level object associated with '/Game/VRTemplate/Worlds/LobbyMap'
+[2024.07.28-20.38.54:223][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.28-20.38.54:223][431]LogWorld: BeginTearingDown for /Game/VRTemplate/Worlds/UEDPIE_0_LobbyMap
+[2024.07.28-20.38.54:290][431]LogSlate: Window 'LatenzProjekt Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.99.0)' being destroyed
+[2024.07.28-20.38.54:294][431]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.28-20.38.54:295][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.28-20.38.54:297][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.28-20.38.54:303][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.28-20.38.54:319][431]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.28-20.38.54:320][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.28-20.38.54:321][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.28-20.38.54:328][431]LogSlate: Slate User Unregistered.  User Index 8
+[2024.07.28-20.38.54:328][431]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.07.28-20.38.54:330][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.07.28-20.38.54:418][432]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.07.28-20.38.54:512][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
