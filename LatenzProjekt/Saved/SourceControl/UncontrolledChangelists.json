@@ -22,7 +22,29 @@
 				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Worlds/MainMenuMap_BuiltData.uasset",
 				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level1.uasset",
 				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level2.uasset",
-				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel.uasset"
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level3.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/Level4.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Materials/M_HUD.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Images/QuestControllers.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/HUD.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Images/Ellipse_1.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Images/Ellipse_2.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Images/Ellipse_3.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Images/Ellipse_4.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Input/IMC_Menu.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/UI/MainMenu.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/PreLobby.umap",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/PreLobby_BuiltData.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/WidgetMenu.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel1.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel2.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel3_4.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel3.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Levels/StartLevel4.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/B_PressureSwitch.uasset",
+				"C:/Users/leene/Desktop/Praxisprojekt_SS24/LatenzProjekt/Content/VRTemplate/Blueprints/B_Door.uasset"
 			]
 		}
 	]
