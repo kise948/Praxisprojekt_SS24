@@ -1,3 +1,0 @@
-android {
-    namespace="com.android.vending.expansion.downloader"
-}
