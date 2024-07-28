@@ -1,0 +1,4 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 UpdateGlobalDistanceField
+	01 Clipmap:1 CacheType:MostlyStatic FULL UPDATE: TooManyUpdateBounds
