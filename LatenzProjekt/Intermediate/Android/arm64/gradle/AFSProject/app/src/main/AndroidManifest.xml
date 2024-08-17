@@ -33,7 +33,7 @@
     <meta-data android:name="com.epicgames.unreal.GameActivity.ProjectName" android:value="LatenzProjekt" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.AppType" android:value="" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bHasOBBFiles" android:value="true" />
-    <meta-data android:name="com.epicgames.unreal.GameActivity.BuildConfiguration" android:value="DebugGame" />
+    <meta-data android:name="com.epicgames.unreal.GameActivity.BuildConfiguration" android:value="Development" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.CookedFlavors" android:value="ASTC" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bValidateTextureFormats" android:value="true" />
     <meta-data android:name="com.epicgames.unreal.GameActivity.bUseExternalFilesDir" android:value="true" />

@@ -250,11 +250,11 @@
 131            android:value="true" />
 131-->Z:\app\src\main\AndroidManifest.xml:35:78-98
 132        <meta-data
-132-->Z:\app\src\main\AndroidManifest.xml:36:5-112
+132-->Z:\app\src\main\AndroidManifest.xml:36:5-114
 133            android:name="com.epicgames.unreal.GameActivity.BuildConfiguration"
 133-->Z:\app\src\main\AndroidManifest.xml:36:16-83
-134            android:value="DebugGame" />
-134-->Z:\app\src\main\AndroidManifest.xml:36:84-109
+134            android:value="Development" />
+134-->Z:\app\src\main\AndroidManifest.xml:36:84-111
 135        <meta-data
 135-->Z:\app\src\main\AndroidManifest.xml:37:5-102
 136            android:name="com.epicgames.unreal.GameActivity.CookedFlavors"

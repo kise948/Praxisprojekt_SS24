@@ -131,7 +131,7 @@
             android:value="true" />
         <meta-data
             android:name="com.epicgames.unreal.GameActivity.BuildConfiguration"
-            android:value="DebugGame" />
+            android:value="Development" />
         <meta-data
             android:name="com.epicgames.unreal.GameActivity.CookedFlavors"
             android:value="ASTC" />

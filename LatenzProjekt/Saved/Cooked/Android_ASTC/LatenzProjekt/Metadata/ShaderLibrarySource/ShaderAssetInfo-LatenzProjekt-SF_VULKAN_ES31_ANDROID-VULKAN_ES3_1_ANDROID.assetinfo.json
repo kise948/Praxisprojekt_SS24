@@ -352,6 +352,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4B9786703F9148F9834C5928BC7C4A71AF58FF92",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultRIbbonMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "0BA99370FB91629324640D7D86CAC442B491B98B",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"

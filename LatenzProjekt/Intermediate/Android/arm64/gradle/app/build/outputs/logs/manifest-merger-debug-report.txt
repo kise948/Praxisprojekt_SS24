@@ -253,9 +253,9 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:35:5-101
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:35:16-77
 meta-data#com.epicgames.unreal.GameActivity.BuildConfiguration
-ADDED from Z:\app\src\main\AndroidManifest.xml:36:5-112
+ADDED from Z:\app\src\main\AndroidManifest.xml:36:5-114
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:36:84-109
+		ADDED from Z:\app\src\main\AndroidManifest.xml:36:84-111
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:36:16-83
 meta-data#com.epicgames.unreal.GameActivity.CookedFlavors
