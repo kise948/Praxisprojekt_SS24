@@ -103,6 +103,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AFB5E81FD23AF0A1D7C4F9213912A2042B551754",
+			"Assets": [
+				"/Engine/MapTemplates/Materials/BasicAsset03"
+			]
+		},
+		{
 			"ShaderMapHash": "74F64D21AD4454769F2F2C472BE6B60F868A5C50",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Shelf"
@@ -130,6 +136,12 @@
 			"ShaderMapHash": "7C8FE426ADD2CD891EE358ABF5443A7E5C899BD4",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7841BC2E38807FEA639453BB66C68B90DB642ADF",
+			"Assets": [
+				"/Engine/MapTemplates/Materials/BasicAsset01"
 			]
 		},
 		{
