@@ -1,4 +1,4 @@
-# Praxisprojekt_SS24
+# Einfluss von Latency und Latency-Jitter auf Cybersickness bei verschiedenen Interaktions-  und Navigationsmethoden in VR
 
 Das Latenz Projekt ist eine Virtual Reality Testumgebung, die als Grundlage für Nutzertests dienen soll, um dabei die Auswirkungen von Jitterlatenz bei Interaktion und Navigation zu untersuchen. Das Projekt umfasst zwei verschiedene Navigations- und Interaktionsmethoden, die mit einer einstellbaren Jitter-Latenz versehen sind. Die Jitter-Latenz kann über ein Admin Widget reguliert werden.
 
